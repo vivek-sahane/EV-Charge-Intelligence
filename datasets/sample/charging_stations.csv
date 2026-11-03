@@ -1,0 +1,848 @@
+station_id,station_name,country,city,latitude,longitude,station_count,port_count,charging_power_kw,fast_station_share,fast_port_share,median_power_kw,demand_score
+EV-STN-00001,PulsePoint New York #1,United States,New York,40.681378,-73.853096,42,174,350.0,0.494,0.569,287.4,99.0
+EV-STN-00002,VoltHub New York #2,United States,New York,40.718886,-74.008043,9,36,50.0,0.43,0.345,39.4,64.78
+EV-STN-00003,SparkPoint New York #3,United States,New York,40.67352,-74.027595,17,36,350.0,0.685,0.706,282.2,98.7
+EV-STN-00004,AmpPark New York #4,United States,New York,40.705066,-74.031771,29,76,75.0,0.585,0.607,74.0,88.4
+EV-STN-00005,HyperPower Station New York #5,United States,New York,40.685168,-74.042691,7,15,50.0,0.272,0.187,42.6,40.81
+EV-STN-00006,VoltHub New York #6,United States,New York,40.660504,-73.993998,31,61,350.0,0.313,0.266,320.4,99.0
+EV-STN-00007,Apex Charger New York #7,United States,New York,40.720751,-73.975163,16,56,75.0,0.786,0.851,57.4,85.27
+EV-STN-00008,Orbital Charge New York #8,United States,New York,40.647967,-74.055372,9,27,150.0,0.363,0.344,131.3,64.69
+EV-STN-00009,AmpPark New York #9,United States,New York,40.650391,-73.972053,29,109,120.0,0.573,0.478,118.9,94.93
+EV-STN-00010,VoltHub New York #10,United States,New York,40.656686,-73.907468,19,63,300.0,0.684,0.619,273.9,99.0
+EV-STN-00011,Apex Charger New York #11,United States,New York,40.682853,-73.78501,29,101,175.0,0.494,0.412,149.1,92.85
+EV-STN-00012,SuperCharge Hub New York #12,United States,New York,40.734,-74.054773,20,71,50.0,0.43,0.482,43.2,78.15
+EV-STN-00013,CleanWatts Los Angeles #1,United States,Los Angeles,33.993318,-118.100399,27,111,300.0,0.727,0.627,259.6,99.0
+EV-STN-00014,GreenGrid Express Los Angeles #2,United States,Los Angeles,34.07239,-118.240277,5,11,250.0,0.534,0.62,242.6,68.57
+EV-STN-00015,AmpPark Los Angeles #3,United States,Los Angeles,34.149408,-118.131528,40,158,50.0,0.647,0.609,44.4,99.0
+EV-STN-00016,Apex Charger Los Angeles #4,United States,Los Angeles,34.138373,-118.133027,43,174,300.0,0.499,0.542,277.9,99.0
+EV-STN-00017,NexGen EV Plaza Los Angeles #5,United States,Los Angeles,34.123296,-118.389373,17,51,350.0,0.251,0.189,307.0,96.85
+EV-STN-00018,CleanWatts Los Angeles #6,United States,Los Angeles,33.983518,-118.226878,23,99,150.0,0.505,0.569,139.7,89.59
+EV-STN-00019,Orbital Charge Los Angeles #7,United States,Los Angeles,33.894473,-118.359436,33,136,175.0,0.463,0.46,155.4,96.67
+EV-STN-00020,EcoCurrent Los Angeles #8,United States,Los Angeles,34.037345,-118.127875,17,56,50.0,0.313,0.368,41.5,61.71
+EV-STN-00021,AmpPark Los Angeles #9,United States,Los Angeles,34.026846,-118.349597,26,116,100.0,0.705,0.735,87.4,99.0
+EV-STN-00022,GreenGrid Express Los Angeles #10,United States,Los Angeles,34.065815,-118.257375,30,62,100.0,0.787,0.69,85.2,89.57
+EV-STN-00023,PowerFlow Park Los Angeles #11,United States,Los Angeles,34.07157,-118.248166,18,48,175.0,0.635,0.665,168.5,91.85
+EV-STN-00024,EcoCurrent Los Angeles #12,United States,Los Angeles,34.014401,-118.331876,33,137,150.0,0.175,0.1,149.9,84.25
+EV-STN-00025,TerraWatt Depot Los Angeles #13,United States,Los Angeles,34.168897,-118.153843,42,155,150.0,0.22,0.153,146.4,95.84
+EV-STN-00026,CleanWatts Los Angeles #14,United States,Los Angeles,34.077611,-118.284052,17,54,100.0,0.546,0.605,79.4,80.69
+EV-STN-00027,Orbital Charge San Francisco #1,United States,San Francisco,37.718818,-122.354875,33,140,150.0,0.25,0.242,129.7,86.91
+EV-STN-00028,AmpPark San Francisco #2,United States,San Francisco,37.682138,-122.341975,12,23,150.0,0.812,0.91,136.5,80.01
+EV-STN-00029,NexGen EV Plaza San Francisco #3,United States,San Francisco,37.754665,-122.484432,21,49,120.0,0.419,0.416,101.4,74.1
+EV-STN-00030,TerraWatt Depot San Francisco #4,United States,San Francisco,37.807343,-122.468387,44,126,50.0,0.156,0.229,48.9,84.04
+EV-STN-00031,TerraWatt Depot San Francisco #5,United States,San Francisco,37.66664,-122.416583,20,77,120.0,0.311,0.371,109.1,77.4
+EV-STN-00032,TerraWatt Depot San Francisco #6,United States,San Francisco,37.723082,-122.408926,10,34,150.0,0.782,0.811,142.1,81.42
+EV-STN-00033,VoltHub San Francisco #7,United States,San Francisco,37.703655,-122.468638,7,29,120.0,0.379,0.362,94.0,55.61
+EV-STN-00034,PulsePoint San Francisco #8,United States,San Francisco,37.742213,-122.469858,12,29,150.0,0.727,0.723,140.5,80.98
+EV-STN-00035,EcoCurrent San Francisco #9,United States,San Francisco,37.793683,-122.486416,6,13,200.0,0.827,0.899,198.4,79.96
+EV-STN-00036,SparkPoint San Francisco #10,United States,San Francisco,37.729964,-122.458494,9,27,350.0,0.621,0.655,295.8,95.97
+EV-STN-00037,PowerFlow Park San Francisco #11,United States,San Francisco,37.79718,-122.4305,16,49,175.0,0.584,0.673,171.3,90.04
+EV-STN-00038,Orbital Charge San Francisco #12,United States,San Francisco,37.792678,-122.515239,43,124,150.0,0.248,0.337,149.8,93.41
+EV-STN-00039,ElectraPoint San Francisco #13,United States,San Francisco,37.860486,-122.343613,10,28,300.0,0.41,0.5,256.4,84.89
+EV-STN-00040,NexGen EV Plaza San Francisco #14,United States,San Francisco,37.745964,-122.486797,41,118,175.0,0.816,0.723,140.8,99.0
+EV-STN-00041,AmpPark San Francisco #15,United States,San Francisco,37.868532,-122.457433,8,35,175.0,0.407,0.487,133.9,71.66
+EV-STN-00042,Orbital Charge San Francisco #16,United States,San Francisco,37.904478,-122.406932,15,52,175.0,0.568,0.472,141.9,82.19
+EV-STN-00043,SparkPoint Seattle #1,United States,Seattle,47.588879,-122.343136,37,87,175.0,0.301,0.375,165.1,91.31
+EV-STN-00044,CleanWatts Seattle #2,United States,Seattle,47.540858,-122.305993,10,32,50.0,0.709,0.631,39.1,66.51
+EV-STN-00045,EcoCurrent Seattle #3,United States,Seattle,47.615363,-122.385053,22,40,200.0,0.336,0.261,176.3,77.95
+EV-STN-00046,SparkPoint Seattle #4,United States,Seattle,47.549356,-122.396518,30,94,300.0,0.812,0.721,247.6,99.0
+EV-STN-00047,PowerFlow Park Seattle #5,United States,Seattle,47.623463,-122.337988,32,130,250.0,0.448,0.37,192.1,99.0
+EV-STN-00048,ElectraPoint Seattle #6,United States,Seattle,47.639477,-122.259274,39,127,300.0,0.378,0.477,247.1,99.0
+EV-STN-00049,PulsePoint Seattle #7,United States,Seattle,47.588181,-122.352946,9,36,120.0,0.606,0.66,102.9,77.7
+EV-STN-00050,Orbital Charge Seattle #8,United States,Seattle,47.572784,-122.405755,8,21,100.0,0.369,0.32,92.2,57.39
+EV-STN-00051,AmpPark Seattle #9,United States,Seattle,47.69233,-122.274774,7,20,100.0,0.671,0.646,88.9,62.73
+EV-STN-00052,EcoCurrent Seattle #10,United States,Seattle,47.573007,-122.368843,44,191,50.0,0.446,0.529,49.6,91.19
+EV-STN-00053,GreenGrid Express Seattle #11,United States,Seattle,47.597258,-122.300052,34,80,75.0,0.61,0.555,62.8,83.48
+EV-STN-00054,CleanWatts Seattle #12,United States,Seattle,47.597648,-122.45234,37,163,300.0,0.723,0.746,227.0,99.0
+EV-STN-00055,Apex Charger Seattle #13,United States,Seattle,47.564119,-122.427549,3,6,175.0,0.642,0.604,146.6,52.38
+EV-STN-00056,NexGen EV Plaza Chicago #1,United States,Chicago,41.903361,-87.529806,3,6,250.0,0.521,0.496,208.8,57.25
+EV-STN-00057,EcoCurrent Chicago #2,United States,Chicago,41.861377,-87.574735,38,129,350.0,0.768,0.699,266.9,99.0
+EV-STN-00058,NexGen EV Plaza Chicago #3,United States,Chicago,41.904633,-87.702048,19,45,75.0,0.509,0.478,61.6,71.81
+EV-STN-00059,PowerFlow Park Chicago #4,United States,Chicago,41.827102,-87.675183,21,40,50.0,0.427,0.447,40.1,70.19
+EV-STN-00060,SparkPoint Chicago #5,United States,Chicago,41.84934,-87.631877,2,6,300.0,0.451,0.377,277.8,61.15
+EV-STN-00061,PulsePoint Chicago #6,United States,Chicago,41.808842,-87.665768,24,47,50.0,0.753,0.661,43.2,79.86
+EV-STN-00062,NexGen EV Plaza Chicago #7,United States,Chicago,41.898463,-87.724357,28,72,100.0,0.434,0.527,95.0,81.41
+EV-STN-00063,GreenGrid Express Chicago #8,United States,Chicago,41.804008,-87.604315,25,50,350.0,0.741,0.69,297.5,99.0
+EV-STN-00064,TerraWatt Depot Chicago #9,United States,Chicago,41.926051,-87.662031,12,24,120.0,0.593,0.599,117.2,73.43
+EV-STN-00065,EcoCurrent Chicago #10,United States,Chicago,41.803334,-87.493579,43,172,120.0,0.315,0.244,95.2,92.54
+EV-STN-00066,ElectraPoint Chicago #11,United States,Chicago,41.947238,-87.578704,33,100,350.0,0.545,0.561,318.8,99.0
+EV-STN-00067,GreenGrid Express Chicago #12,United States,Chicago,41.819043,-87.4697,22,48,150.0,0.198,0.186,142.4,70.87
+EV-STN-00068,ElectraPoint Chicago #13,United States,Chicago,41.852796,-87.657085,5,13,75.0,0.351,0.38,67.8,48.78
+EV-STN-00069,PulsePoint Chicago #14,United States,Chicago,41.828818,-87.571063,4,12,175.0,0.717,0.747,157.7,60.92
+EV-STN-00070,AmpPark Chicago #15,United States,Chicago,41.87702,-87.515322,23,102,50.0,0.209,0.238,40.6,75.89
+EV-STN-00071,AmpPark Chicago #16,United States,Chicago,41.938932,-87.634432,41,91,200.0,0.411,0.368,188.7,95.54
+EV-STN-00072,PowerFlow Park Chicago #17,United States,Chicago,41.86331,-87.644714,8,26,350.0,0.421,0.371,338.9,90.18
+EV-STN-00073,ElectraPoint Austin #1,United States,Austin,30.243236,-97.758982,24,63,100.0,0.609,0.641,89.9,86.82
+EV-STN-00074,NexGen EV Plaza Austin #2,United States,Austin,30.250856,-97.77515,10,36,300.0,0.73,0.778,232.0,93.68
+EV-STN-00075,PowerFlow Park Austin #3,United States,Austin,30.225193,-97.717702,25,65,250.0,0.816,0.784,199.5,99.0
+EV-STN-00076,CleanWatts Austin #4,United States,Austin,30.267196,-97.728153,36,145,175.0,0.769,0.677,169.6,99.0
+EV-STN-00077,GreenGrid Express Austin #5,United States,Austin,30.300248,-97.701811,12,27,100.0,0.635,0.66,93.0,74.15
+EV-STN-00078,TerraWatt Depot Austin #6,United States,Austin,30.280102,-97.738189,20,76,120.0,0.699,0.646,99.3,92.23
+EV-STN-00079,SparkPoint Austin #7,United States,Austin,30.290393,-97.865512,14,39,250.0,0.813,0.91,235.6,99.0
+EV-STN-00080,NexGen EV Plaza Austin #8,United States,Austin,30.209003,-97.638813,40,86,175.0,0.325,0.353,155.5,88.54
+EV-STN-00081,ElectraPoint Austin #9,United States,Austin,30.252736,-97.810793,9,23,300.0,0.684,0.639,236.1,80.47
+EV-STN-00082,HyperPower Station Austin #10,United States,Austin,30.31351,-97.694138,3,8,200.0,0.428,0.403,199.7,50.35
+EV-STN-00083,EcoCurrent Austin #11,United States,Austin,30.274178,-97.693032,8,32,100.0,0.605,0.663,76.0,72.95
+EV-STN-00084,Orbital Charge Austin #12,United States,Austin,30.239151,-97.684869,30,103,120.0,0.784,0.688,115.0,99.0
+EV-STN-00085,PulsePoint Austin #13,United States,Austin,30.330935,-97.772196,29,60,50.0,0.352,0.312,40.5,67.06
+EV-STN-00086,ElectraPoint Austin #14,United States,Austin,30.213696,-97.646718,40,129,100.0,0.592,0.607,82.3,98.27
+EV-STN-00087,GreenGrid Express Miami #1,United States,Miami,25.722558,-80.134153,13,46,75.0,0.21,0.305,74.1,60.25
+EV-STN-00088,PulsePoint Miami #2,United States,Miami,25.737676,-80.243875,32,61,50.0,0.421,0.396,42.0,71.88
+EV-STN-00089,ElectraPoint Miami #3,United States,Miami,25.716115,-80.117121,42,87,100.0,0.557,0.608,76.1,84.03
+EV-STN-00090,SuperCharge Hub Miami #4,United States,Miami,25.735575,-80.150986,32,112,250.0,0.718,0.631,189.8,99.0
+EV-STN-00091,HyperPower Station Miami #5,United States,Miami,25.793797,-80.181735,4,10,300.0,0.367,0.347,260.5,68.11
+EV-STN-00092,CleanWatts Miami #6,United States,Miami,25.778154,-80.252032,43,115,200.0,0.237,0.211,187.2,96.97
+EV-STN-00093,Apex Charger Miami #7,United States,Miami,25.80551,-80.205444,13,40,300.0,0.498,0.583,245.0,94.56
+EV-STN-00094,NexGen EV Plaza Miami #8,United States,Miami,25.787773,-80.274351,36,93,150.0,0.222,0.188,124.0,79.0
+EV-STN-00095,GreenGrid Express Miami #9,United States,Miami,25.755608,-80.224633,30,82,175.0,0.18,0.254,158.1,80.76
+EV-STN-00096,SparkPoint Miami #10,United States,Miami,25.790089,-80.171036,42,121,100.0,0.509,0.559,98.8,93.6
+EV-STN-00097,SuperCharge Hub Miami #11,United States,Miami,25.805439,-80.259834,30,56,175.0,0.197,0.253,147.1,78.62
+EV-STN-00098,SuperCharge Hub Miami #12,United States,Miami,25.757695,-80.250157,25,74,175.0,0.204,0.132,148.7,73.51
+EV-STN-00099,CleanWatts Denver #1,United States,Denver,39.73926,-104.95839,13,40,150.0,0.421,0.433,141.6,75.52
+EV-STN-00100,GreenGrid Express Denver #2,United States,Denver,39.705888,-105.022419,33,77,100.0,0.245,0.16,97.5,81.02
+EV-STN-00101,AmpPark Denver #3,United States,Denver,39.830385,-104.99234,22,79,150.0,0.647,0.657,145.9,97.68
+EV-STN-00102,Apex Charger Denver #4,United States,Denver,39.675791,-105.002675,25,79,100.0,0.235,0.175,80.9,71.56
+EV-STN-00103,AmpPark Denver #5,United States,Denver,39.801876,-104.976716,25,76,75.0,0.838,0.764,57.5,86.14
+EV-STN-00104,AmpPark Denver #6,United States,Denver,39.786632,-105.100193,38,75,250.0,0.831,0.859,216.6,99.0
+EV-STN-00105,PulsePoint Denver #7,United States,Denver,39.681816,-104.879768,37,130,200.0,0.277,0.37,175.1,99.0
+EV-STN-00106,PulsePoint Denver #8,United States,Denver,39.669705,-104.967976,22,95,300.0,0.308,0.397,292.1,99.0
+EV-STN-00107,Orbital Charge Denver #9,United States,Denver,39.76828,-104.969861,37,94,75.0,0.588,0.611,65.7,91.06
+EV-STN-00108,SuperCharge Hub Denver #10,United States,Denver,39.843138,-104.94706,40,108,50.0,0.797,0.705,38.5,94.97
+EV-STN-00109,PowerFlow Park Denver #11,United States,Denver,39.744364,-105.040841,15,58,250.0,0.442,0.47,243.1,91.59
+EV-STN-00110,CleanWatts Denver #12,United States,Denver,39.718959,-105.107141,45,130,100.0,0.467,0.505,86.0,92.5
+EV-STN-00111,AmpPark Denver #13,United States,Denver,39.694737,-104.977162,11,29,175.0,0.653,0.7,173.9,84.77
+EV-STN-00112,PulsePoint Denver #14,United States,Denver,39.774428,-104.952299,9,22,150.0,0.324,0.243,148.0,63.52
+EV-STN-00113,Orbital Charge Denver #15,United States,Denver,39.710924,-105.022873,12,47,120.0,0.804,0.848,112.9,84.95
+EV-STN-00114,AmpPark Denver #16,United States,Denver,39.739855,-104.935007,7,30,120.0,0.504,0.597,107.5,68.32
+EV-STN-00115,VoltHub Denver #17,United States,Denver,39.794716,-104.966571,43,155,75.0,0.35,0.252,64.3,88.48
+EV-STN-00116,NexGen EV Plaza Boston #1,United States,Boston,42.30582,-71.104475,38,126,200.0,0.404,0.362,175.2,99.0
+EV-STN-00117,SparkPoint Boston #2,United States,Boston,42.271244,-71.097852,41,149,200.0,0.233,0.328,168.7,99.0
+EV-STN-00118,EcoCurrent Boston #3,United States,Boston,42.354803,-71.057494,34,98,175.0,0.178,0.1,166.4,83.47
+EV-STN-00119,PulsePoint Boston #4,United States,Boston,42.294311,-71.034235,34,74,200.0,0.802,0.766,199.5,99.0
+EV-STN-00120,EcoCurrent Boston #5,United States,Boston,42.31803,-71.139605,33,122,175.0,0.36,0.423,145.7,94.14
+EV-STN-00121,ElectraPoint Boston #6,United States,Boston,42.425768,-71.070185,42,78,350.0,0.482,0.575,313.0,99.0
+EV-STN-00122,SuperCharge Hub Boston #7,United States,Boston,42.294987,-71.165796,26,57,75.0,0.627,0.533,59.8,77.96
+EV-STN-00123,AmpPark Boston #8,United States,Boston,42.348937,-71.023187,15,43,50.0,0.692,0.776,46.3,73.12
+EV-STN-00124,PowerFlow Park Boston #9,United States,Boston,42.352587,-71.124102,13,39,150.0,0.523,0.532,135.4,78.55
+EV-STN-00125,HyperPower Station Boston #10,United States,Boston,42.399099,-71.073396,21,50,150.0,0.831,0.791,138.9,92.06
+EV-STN-00126,AmpPark Boston #11,United States,Boston,42.306197,-71.150594,19,48,200.0,0.551,0.56,190.9,94.78
+EV-STN-00127,SparkPoint Boston #12,United States,Boston,42.374037,-71.111687,20,87,150.0,0.205,0.29,140.5,83.82
+EV-STN-00128,CleanWatts Boston #13,United States,Boston,42.451516,-70.963566,10,20,50.0,0.669,0.617,45.9,59.7
+EV-STN-00129,PulsePoint Boston #14,United States,Boston,42.365643,-71.010208,8,23,100.0,0.652,0.572,75.1,59.15
+EV-STN-00130,NexGen EV Plaza Boston #15,United States,Boston,42.324311,-71.138842,32,98,175.0,0.29,0.383,143.7,84.76
+EV-STN-00131,VoltHub Boston #16,United States,Boston,42.378225,-71.074916,38,92,50.0,0.667,0.737,48.9,91.76
+EV-STN-00132,SuperCharge Hub Boston #17,United States,Boston,42.452267,-71.042053,27,106,150.0,0.28,0.33,145.4,88.52
+EV-STN-00133,VoltHub Boston #18,United States,Boston,42.339758,-70.971168,23,59,250.0,0.842,0.851,243.1,99.0
+EV-STN-00134,HyperPower Station Atlanta #1,United States,Atlanta,33.793231,-84.368537,31,110,175.0,0.653,0.556,165.8,99.0
+EV-STN-00135,GreenGrid Express Atlanta #2,United States,Atlanta,33.734018,-84.423037,41,168,300.0,0.778,0.843,249.6,99.0
+EV-STN-00136,SuperCharge Hub Atlanta #3,United States,Atlanta,33.762064,-84.527516,2,5,175.0,0.315,0.366,144.5,39.03
+EV-STN-00137,TerraWatt Depot Atlanta #4,United States,Atlanta,33.714075,-84.408701,25,91,150.0,0.193,0.117,118.5,75.73
+EV-STN-00138,Apex Charger Atlanta #5,United States,Atlanta,33.644759,-84.402932,9,31,120.0,0.808,0.782,96.6,75.87
+EV-STN-00139,SuperCharge Hub Atlanta #6,United States,Atlanta,33.694429,-84.378946,40,112,300.0,0.641,0.724,285.1,99.0
+EV-STN-00140,PowerFlow Park Atlanta #7,United States,Atlanta,33.673676,-84.384362,7,22,350.0,0.52,0.492,272.3,78.71
+EV-STN-00141,Orbital Charge Atlanta #8,United States,Atlanta,33.692302,-84.409048,38,123,250.0,0.265,0.336,194.8,98.58
+EV-STN-00142,ElectraPoint Atlanta #9,United States,Atlanta,33.812565,-84.335438,5,15,50.0,0.509,0.5,44.5,48.32
+EV-STN-00143,PowerFlow Park Atlanta #10,United States,Atlanta,33.777055,-84.478294,27,67,75.0,0.152,0.1,57.1,65.08
+EV-STN-00144,VoltHub Atlanta #11,United States,Atlanta,33.764042,-84.367152,32,60,200.0,0.436,0.49,168.7,89.25
+EV-STN-00145,Apex Charger Atlanta #12,United States,Atlanta,33.674359,-84.306296,26,73,300.0,0.628,0.66,235.0,99.0
+EV-STN-00146,PulsePoint Atlanta #13,United States,Atlanta,33.729668,-84.412564,16,64,250.0,0.679,0.775,229.6,99.0
+EV-STN-00147,PulsePoint Atlanta #14,United States,Atlanta,33.705614,-84.361052,16,39,75.0,0.392,0.347,56.9,62.44
+EV-STN-00148,HyperPower Station Berlin #1,Germany,Berlin,52.461631,13.415326,4,12,120.0,0.62,0.694,112.2,60.44
+EV-STN-00149,NexGen EV Plaza Berlin #2,Germany,Berlin,52.462235,13.443304,5,10,350.0,0.845,0.792,290.4,81.31
+EV-STN-00150,EcoCurrent Berlin #3,Germany,Berlin,52.47688,13.418807,44,141,300.0,0.439,0.394,296.1,99.0
+EV-STN-00151,Apex Charger Berlin #4,Germany,Berlin,52.517121,13.35423,45,132,200.0,0.497,0.591,189.3,99.0
+EV-STN-00152,SuperCharge Hub Berlin #5,Germany,Berlin,52.567121,13.388848,36,110,100.0,0.745,0.705,95.1,99.0
+EV-STN-00153,Apex Charger Berlin #6,Germany,Berlin,52.56824,13.435027,28,92,120.0,0.244,0.193,99.9,80.71
+EV-STN-00154,EcoCurrent Berlin #7,Germany,Berlin,52.54605,13.515309,14,27,50.0,0.414,0.435,48.4,62.06
+EV-STN-00155,HyperPower Station Berlin #8,Germany,Berlin,52.542405,13.302018,44,145,175.0,0.486,0.56,144.5,99.0
+EV-STN-00156,HyperPower Station Berlin #9,Germany,Berlin,52.501332,13.444891,32,136,200.0,0.637,0.678,195.8,99.0
+EV-STN-00157,PulsePoint Berlin #10,Germany,Berlin,52.502259,13.465362,31,100,300.0,0.401,0.353,291.2,99.0
+EV-STN-00158,TerraWatt Depot Berlin #11,Germany,Berlin,52.5391,13.250638,15,42,120.0,0.44,0.453,112.2,75.21
+EV-STN-00159,VoltHub Berlin #12,Germany,Berlin,52.512097,13.596555,39,146,120.0,0.357,0.296,101.4,91.19
+EV-STN-00160,PowerFlow Park Munich #1,Germany,Munich,48.084173,11.515496,33,145,100.0,0.599,0.597,93.3,99.0
+EV-STN-00161,EcoCurrent Munich #2,Germany,Munich,48.173873,11.686535,33,75,50.0,0.773,0.871,44.0,90.07
+EV-STN-00162,Orbital Charge Munich #3,Germany,Munich,48.118446,11.519386,28,60,100.0,0.591,0.505,75.2,76.66
+EV-STN-00163,PulsePoint Munich #4,Germany,Munich,48.118113,11.58922,42,151,250.0,0.582,0.579,188.5,99.0
+EV-STN-00164,VoltHub Munich #5,Germany,Munich,48.124753,11.522972,20,36,100.0,0.719,0.754,77.7,78.67
+EV-STN-00165,ElectraPoint Munich #6,Germany,Munich,48.098406,11.573509,41,132,200.0,0.721,0.674,154.0,99.0
+EV-STN-00166,HyperPower Station Munich #7,Germany,Munich,48.12108,11.635508,45,181,50.0,0.206,0.304,38.7,83.56
+EV-STN-00167,NexGen EV Plaza Munich #8,Germany,Munich,48.09436,11.641403,42,76,200.0,0.27,0.27,182.2,85.72
+EV-STN-00168,ElectraPoint Munich #9,Germany,Munich,48.255146,11.714638,16,37,250.0,0.758,0.836,204.4,92.15
+EV-STN-00169,Apex Charger Munich #10,Germany,Munich,48.236864,11.658909,36,119,175.0,0.173,0.259,131.9,87.09
+EV-STN-00170,Orbital Charge Munich #11,Germany,Munich,48.161998,11.564469,6,15,200.0,0.545,0.558,183.9,66.47
+EV-STN-00171,PulsePoint Munich #12,Germany,Munich,48.093867,11.691546,10,39,175.0,0.633,0.549,133.6,74.86
+EV-STN-00172,EcoCurrent Munich #13,Germany,Munich,48.171877,11.5004,40,114,150.0,0.691,0.597,141.9,99.0
+EV-STN-00173,AmpPark Munich #14,Germany,Munich,48.08829,11.586146,26,77,75.0,0.626,0.658,70.7,85.6
+EV-STN-00174,ElectraPoint Munich #15,Germany,Munich,48.171195,11.619729,42,93,75.0,0.423,0.395,56.3,81.77
+EV-STN-00175,CleanWatts Munich #16,Germany,Munich,48.055513,11.625158,8,17,300.0,0.281,0.271,263.4,73.08
+EV-STN-00176,PulsePoint Munich #17,Germany,Munich,48.148195,11.666346,22,90,75.0,0.159,0.142,69.8,73.47
+EV-STN-00177,Apex Charger Frankfurt #1,Germany,Frankfurt,50.148147,8.679445,35,79,150.0,0.417,0.345,122.6,86.02
+EV-STN-00178,CleanWatts Frankfurt #2,Germany,Frankfurt,50.134908,8.603182,6,16,250.0,0.811,0.855,224.6,85.37
+EV-STN-00179,HyperPower Station Frankfurt #3,Germany,Frankfurt,50.084859,8.693109,2,8,175.0,0.383,0.407,150.5,43.2
+EV-STN-00180,PowerFlow Park Frankfurt #4,Germany,Frankfurt,50.150226,8.723726,22,75,100.0,0.637,0.633,99.1,88.15
+EV-STN-00181,EcoCurrent Frankfurt #5,Germany,Frankfurt,50.09106,8.798193,33,145,150.0,0.697,0.662,143.1,99.0
+EV-STN-00182,GreenGrid Express Frankfurt #6,Germany,Frankfurt,50.126221,8.765193,13,47,250.0,0.535,0.626,246.4,99.0
+EV-STN-00183,HyperPower Station Frankfurt #7,Germany,Frankfurt,50.072469,8.706502,6,24,250.0,0.707,0.689,196.2,81.3
+EV-STN-00184,SuperCharge Hub Frankfurt #8,Germany,Frankfurt,50.146978,8.652294,6,18,300.0,0.569,0.585,263.0,77.44
+EV-STN-00185,Apex Charger Frankfurt #9,Germany,Frankfurt,50.146442,8.622809,4,15,300.0,0.402,0.481,269.5,75.4
+EV-STN-00186,HyperPower Station Frankfurt #10,Germany,Frankfurt,50.098572,8.642052,43,148,200.0,0.544,0.573,198.3,99.0
+EV-STN-00187,EcoCurrent Frankfurt #11,Germany,Frankfurt,50.162727,8.664418,2,4,300.0,0.305,0.354,268.5,47.41
+EV-STN-00188,NexGen EV Plaza Frankfurt #12,Germany,Frankfurt,50.086166,8.567628,34,75,150.0,0.848,0.845,128.1,99.0
+EV-STN-00189,ElectraPoint Frankfurt #13,Germany,Frankfurt,50.199516,8.805582,11,30,300.0,0.39,0.447,261.2,82.92
+EV-STN-00190,TerraWatt Depot Frankfurt #14,Germany,Frankfurt,50.118912,8.654313,4,15,75.0,0.231,0.301,68.9,44.76
+EV-STN-00191,SuperCharge Hub Frankfurt #15,Germany,Frankfurt,50.185193,8.627517,35,79,250.0,0.262,0.274,202.0,89.71
+EV-STN-00192,PowerFlow Park Frankfurt #16,Germany,Frankfurt,50.128839,8.639067,41,171,50.0,0.465,0.451,46.3,87.97
+EV-STN-00193,CleanWatts Hamburg #1,Germany,Hamburg,53.552429,9.840644,6,20,175.0,0.71,0.717,145.5,71.76
+EV-STN-00194,Orbital Charge Hamburg #2,Germany,Hamburg,53.561381,9.775395,22,75,175.0,0.578,0.595,146.6,92.93
+EV-STN-00195,AmpPark Hamburg #3,Germany,Hamburg,53.483246,9.889956,21,89,175.0,0.563,0.597,136.4,93.06
+EV-STN-00196,TerraWatt Depot Hamburg #4,Germany,Hamburg,53.580988,10.046352,40,86,300.0,0.419,0.356,277.0,99.0
+EV-STN-00197,PowerFlow Park Hamburg #5,Germany,Hamburg,53.579063,9.971802,12,37,250.0,0.248,0.211,226.2,82.3
+EV-STN-00198,AmpPark Hamburg #6,Germany,Hamburg,53.45899,10.094856,37,117,200.0,0.496,0.533,185.5,99.0
+EV-STN-00199,AmpPark Hamburg #7,Germany,Hamburg,53.530381,9.99618,3,11,120.0,0.304,0.211,106.1,44.45
+EV-STN-00200,TerraWatt Depot Hamburg #8,Germany,Hamburg,53.599242,10.007597,34,71,175.0,0.23,0.285,155.0,80.71
+EV-STN-00201,SparkPoint Hamburg #9,Germany,Hamburg,53.628059,10.02836,36,86,120.0,0.448,0.495,98.9,89.39
+EV-STN-00202,EcoCurrent Hamburg #10,Germany,Hamburg,53.550864,10.016966,9,35,350.0,0.316,0.378,322.8,91.45
+EV-STN-00203,Orbital Charge Hamburg #11,Germany,Hamburg,53.533824,9.878178,12,41,50.0,0.699,0.762,44.6,71.28
+EV-STN-00204,SuperCharge Hub Hamburg #12,Germany,Hamburg,53.537524,9.935069,20,66,75.0,0.817,0.82,58.8,90.96
+EV-STN-00205,SparkPoint Hamburg #13,Germany,Hamburg,53.576015,9.809841,19,78,120.0,0.239,0.312,94.4,75.51
+EV-STN-00206,PowerFlow Park Amsterdam #1,Netherlands,Amsterdam,52.401508,4.868672,42,106,75.0,0.44,0.43,63.8,85.42
+EV-STN-00207,TerraWatt Depot Amsterdam #2,Netherlands,Amsterdam,52.346897,5.093273,25,75,75.0,0.492,0.508,70.0,77.27
+EV-STN-00208,EcoCurrent Amsterdam #3,Netherlands,Amsterdam,52.386665,4.989959,27,64,150.0,0.451,0.393,124.6,79.24
+EV-STN-00209,CleanWatts Amsterdam #4,Netherlands,Amsterdam,52.333196,4.995717,38,155,50.0,0.702,0.781,38.1,93.56
+EV-STN-00210,VoltHub Amsterdam #5,Netherlands,Amsterdam,52.299794,5.018981,30,90,100.0,0.844,0.83,97.1,99.0
+EV-STN-00211,CleanWatts Amsterdam #6,Netherlands,Amsterdam,52.430475,5.064078,19,38,100.0,0.402,0.318,76.3,63.85
+EV-STN-00212,SparkPoint Amsterdam #7,Netherlands,Amsterdam,52.310495,4.91599,8,14,120.0,0.484,0.411,105.6,60.06
+EV-STN-00213,AmpPark Amsterdam #8,Netherlands,Amsterdam,52.444586,4.911466,9,40,75.0,0.446,0.372,60.5,68.57
+EV-STN-00214,ElectraPoint Amsterdam #9,Netherlands,Amsterdam,52.415795,4.838609,10,28,100.0,0.719,0.794,76.7,78.07
+EV-STN-00215,GreenGrid Express Amsterdam #10,Netherlands,Amsterdam,52.43995,4.910415,30,82,200.0,0.299,0.349,180.8,88.62
+EV-STN-00216,Apex Charger Amsterdam #11,Netherlands,Amsterdam,52.379994,5.014566,39,147,100.0,0.396,0.382,81.2,92.0
+EV-STN-00217,PowerFlow Park Amsterdam #12,Netherlands,Amsterdam,52.422397,4.956604,40,149,50.0,0.349,0.437,48.1,84.95
+EV-STN-00218,PulsePoint Amsterdam #13,Netherlands,Amsterdam,52.332056,4.862658,27,70,120.0,0.188,0.268,104.8,74.46
+EV-STN-00219,ElectraPoint Amsterdam #14,Netherlands,Amsterdam,52.371592,5.020666,6,19,175.0,0.834,0.931,137.0,79.68
+EV-STN-00220,EcoCurrent Amsterdam #15,Netherlands,Amsterdam,52.317871,4.855789,32,140,75.0,0.689,0.592,56.5,93.2
+EV-STN-00221,HyperPower Station Amsterdam #16,Netherlands,Amsterdam,52.38471,4.911262,27,85,200.0,0.59,0.59,171.2,95.02
+EV-STN-00222,PulsePoint Amsterdam #17,Netherlands,Amsterdam,52.408809,4.854867,21,42,100.0,0.795,0.89,88.4,84.72
+EV-STN-00223,NexGen EV Plaza Amsterdam #18,Netherlands,Amsterdam,52.29494,4.832266,43,156,120.0,0.196,0.236,91.7,88.57
+EV-STN-00224,GreenGrid Express Rotterdam #1,Netherlands,Rotterdam,51.951925,4.423633,44,167,50.0,0.234,0.276,39.5,81.03
+EV-STN-00225,EcoCurrent Rotterdam #2,Netherlands,Rotterdam,51.83791,4.457285,18,40,150.0,0.239,0.295,140.0,75.82
+EV-STN-00226,EcoCurrent Rotterdam #3,Netherlands,Rotterdam,51.996874,4.500386,6,15,250.0,0.833,0.859,215.9,80.63
+EV-STN-00227,EcoCurrent Rotterdam #4,Netherlands,Rotterdam,52.017486,4.532514,12,33,350.0,0.329,0.25,321.5,93.05
+EV-STN-00228,VoltHub Rotterdam #5,Netherlands,Rotterdam,51.978863,4.633187,17,32,100.0,0.405,0.489,98.3,71.12
+EV-STN-00229,Orbital Charge Rotterdam #6,Netherlands,Rotterdam,52.012327,4.509912,43,126,175.0,0.375,0.358,143.1,96.38
+EV-STN-00230,PulsePoint Rotterdam #7,Netherlands,Rotterdam,51.947103,4.465342,16,63,75.0,0.837,0.928,72.7,89.42
+EV-STN-00231,Orbital Charge Rotterdam #8,Netherlands,Rotterdam,51.904941,4.631002,22,44,150.0,0.47,0.444,133.6,78.23
+EV-STN-00232,AmpPark Rotterdam #9,Netherlands,Rotterdam,51.990246,4.331109,14,52,100.0,0.533,0.592,75.2,81.55
+EV-STN-00233,NexGen EV Plaza Rotterdam #10,Netherlands,Rotterdam,51.986142,4.492855,42,170,50.0,0.764,0.854,47.0,98.92
+EV-STN-00234,CleanWatts Rotterdam #11,Netherlands,Rotterdam,51.981808,4.556804,17,49,100.0,0.823,0.918,92.8,90.53
+EV-STN-00235,ElectraPoint Rotterdam #12,Netherlands,Rotterdam,51.959311,4.493723,35,102,75.0,0.777,0.769,67.1,91.34
+EV-STN-00236,NexGen EV Plaza Rotterdam #13,Netherlands,Rotterdam,51.921972,4.571324,29,104,175.0,0.241,0.199,171.8,90.36
+EV-STN-00237,NexGen EV Plaza Rotterdam #14,Netherlands,Rotterdam,51.89956,4.351785,22,66,100.0,0.314,0.403,94.5,75.75
+EV-STN-00238,SuperCharge Hub Rotterdam #15,Netherlands,Rotterdam,51.909653,4.41081,9,29,150.0,0.825,0.767,129.9,81.63
+EV-STN-00239,ElectraPoint Utrecht #1,Netherlands,Utrecht,52.167218,5.200897,21,84,175.0,0.638,0.546,137.7,91.47
+EV-STN-00240,NexGen EV Plaza Utrecht #2,Netherlands,Utrecht,51.963168,4.999462,18,72,250.0,0.272,0.362,222.2,91.4
+EV-STN-00241,PulsePoint Utrecht #3,Netherlands,Utrecht,52.090752,5.212017,10,21,120.0,0.193,0.249,93.9,54.96
+EV-STN-00242,PowerFlow Park Utrecht #4,Netherlands,Utrecht,52.047529,5.152908,39,97,75.0,0.719,0.623,60.0,89.88
+EV-STN-00243,PowerFlow Park Utrecht #5,Netherlands,Utrecht,52.066085,5.136271,23,49,350.0,0.81,0.72,300.4,99.0
+EV-STN-00244,NexGen EV Plaza Utrecht #6,Netherlands,Utrecht,52.032912,5.100977,15,63,100.0,0.342,0.331,75.9,70.84
+EV-STN-00245,GreenGrid Express Utrecht #7,Netherlands,Utrecht,52.037152,5.042619,33,96,150.0,0.535,0.447,126.9,88.47
+EV-STN-00246,SparkPoint Utrecht #8,Netherlands,Utrecht,52.125558,5.008035,36,142,175.0,0.843,0.899,152.2,99.0
+EV-STN-00247,SparkPoint Utrecht #9,Netherlands,Utrecht,51.9808,5.138672,34,90,350.0,0.339,0.244,281.7,99.0
+EV-STN-00248,VoltHub Utrecht #10,Netherlands,Utrecht,52.037818,5.154517,24,92,75.0,0.85,0.945,60.9,93.23
+EV-STN-00249,HyperPower Station Utrecht #11,Netherlands,Utrecht,52.081159,5.270399,5,19,200.0,0.813,0.828,167.7,81.2
+EV-STN-00250,SuperCharge Hub Utrecht #12,Netherlands,Utrecht,52.008898,5.127409,24,102,350.0,0.17,0.21,311.8,99.0
+EV-STN-00251,GreenGrid Express Utrecht #13,Netherlands,Utrecht,52.180923,5.072018,33,107,50.0,0.273,0.181,40.4,74.64
+EV-STN-00252,VoltHub Utrecht #14,Netherlands,Utrecht,52.150665,5.066227,10,27,175.0,0.274,0.334,133.9,67.74
+EV-STN-00253,SuperCharge Hub Utrecht #15,Netherlands,Utrecht,51.995207,5.02735,9,36,175.0,0.752,0.844,162.1,86.6
+EV-STN-00254,EcoCurrent Utrecht #16,Netherlands,Utrecht,52.034159,5.107314,12,45,250.0,0.456,0.484,228.1,90.63
+EV-STN-00255,SuperCharge Hub Utrecht #17,Netherlands,Utrecht,52.073624,5.020598,41,160,100.0,0.306,0.324,84.5,88.73
+EV-STN-00256,SuperCharge Hub Utrecht #18,Netherlands,Utrecht,52.049145,5.095089,38,108,50.0,0.846,0.939,39.8,90.76
+EV-STN-00257,Apex Charger Paris #1,France,Paris,48.881427,2.254768,42,139,75.0,0.806,0.734,60.7,99.0
+EV-STN-00258,Apex Charger Paris #2,France,Paris,48.853251,2.489535,44,155,150.0,0.771,0.76,120.4,99.0
+EV-STN-00259,TerraWatt Depot Paris #3,France,Paris,48.891668,2.376385,8,29,200.0,0.184,0.172,198.5,70.72
+EV-STN-00260,NexGen EV Plaza Paris #4,France,Paris,48.817933,2.308407,32,125,120.0,0.555,0.607,94.9,96.67
+EV-STN-00261,ElectraPoint Paris #5,France,Paris,48.860565,2.333327,3,7,100.0,0.816,0.731,97.2,53.27
+EV-STN-00262,Apex Charger Paris #6,France,Paris,48.87333,2.420562,41,172,100.0,0.643,0.629,90.2,99.0
+EV-STN-00263,NexGen EV Plaza Paris #7,France,Paris,48.869333,2.381502,15,66,300.0,0.436,0.447,244.9,96.41
+EV-STN-00264,VoltHub Paris #8,France,Paris,48.892705,2.277134,33,73,150.0,0.403,0.389,143.4,88.87
+EV-STN-00265,PowerFlow Park Paris #9,France,Paris,48.829628,2.322331,3,7,250.0,0.597,0.692,240.2,65.01
+EV-STN-00266,AmpPark Paris #10,France,Paris,48.903584,2.399292,43,140,175.0,0.279,0.356,139.4,92.62
+EV-STN-00267,VoltHub Paris #11,France,Paris,48.851933,2.436908,16,64,75.0,0.545,0.475,57.9,74.35
+EV-STN-00268,SparkPoint Paris #12,France,Paris,48.908506,2.270618,26,104,250.0,0.443,0.45,223.3,99.0
+EV-STN-00269,HyperPower Station Paris #13,France,Paris,48.836546,2.35678,4,12,350.0,0.78,0.84,275.4,86.54
+EV-STN-00270,SuperCharge Hub Paris #14,France,Paris,48.839487,2.488254,10,19,120.0,0.205,0.242,119.9,55.01
+EV-STN-00271,SuperCharge Hub Lyon #1,France,Lyon,45.783471,4.787896,6,12,150.0,0.539,0.549,132.0,59.9
+EV-STN-00272,TerraWatt Depot Lyon #2,France,Lyon,45.760078,4.773326,28,58,350.0,0.255,0.268,328.9,98.95
+EV-STN-00273,ElectraPoint Lyon #3,France,Lyon,45.821285,4.793813,8,31,200.0,0.757,0.833,163.2,83.98
+EV-STN-00274,AmpPark Lyon #4,France,Lyon,45.710172,4.891644,11,38,200.0,0.627,0.607,194.5,87.82
+EV-STN-00275,EcoCurrent Lyon #5,France,Lyon,45.758195,4.814485,32,137,150.0,0.778,0.682,124.2,99.0
+EV-STN-00276,PowerFlow Park Lyon #6,France,Lyon,45.681513,4.953531,10,26,175.0,0.671,0.726,143.0,81.24
+EV-STN-00277,NexGen EV Plaza Lyon #7,France,Lyon,45.746911,4.816704,30,71,300.0,0.727,0.775,290.0,99.0
+EV-STN-00278,SuperCharge Hub Lyon #8,France,Lyon,45.709719,4.938962,27,58,50.0,0.746,0.822,39.7,85.11
+EV-STN-00279,Apex Charger Lyon #9,France,Lyon,45.811407,4.717304,17,32,120.0,0.185,0.157,98.2,61.79
+EV-STN-00280,PowerFlow Park Lyon #10,France,Lyon,45.710907,4.931657,17,47,250.0,0.566,0.502,224.2,90.75
+EV-STN-00281,EcoCurrent Lyon #11,France,Lyon,45.710782,4.949097,18,68,200.0,0.632,0.589,152.5,94.6
+EV-STN-00282,HyperPower Station Lyon #12,France,Lyon,45.694874,4.900206,45,106,50.0,0.606,0.609,43.4,85.29
+EV-STN-00283,SuperCharge Hub Lyon #13,France,Lyon,45.723253,4.758036,2,4,150.0,0.576,0.665,128.4,41.03
+EV-STN-00284,CleanWatts Lyon #14,France,Lyon,45.796436,4.847763,35,140,300.0,0.428,0.348,300.0,99.0
+EV-STN-00285,Orbital Charge Lyon #15,France,Lyon,45.798187,4.757808,40,137,75.0,0.359,0.281,62.6,83.57
+EV-STN-00286,CleanWatts Lyon #16,France,Lyon,45.80773,4.827796,43,112,50.0,0.255,0.308,47.6,82.4
+EV-STN-00287,SparkPoint Lyon #17,France,Lyon,45.782737,4.767897,22,80,150.0,0.655,0.686,122.2,91.16
+EV-STN-00288,GreenGrid Express Marseille #1,France,Marseille,43.320772,5.346491,14,38,250.0,0.649,0.686,244.2,92.7
+EV-STN-00289,PowerFlow Park Marseille #2,France,Marseille,43.26988,5.414872,12,48,75.0,0.764,0.7,65.1,79.06
+EV-STN-00290,PulsePoint Marseille #3,France,Marseille,43.216267,5.373342,45,190,120.0,0.608,0.552,112.3,99.0
+EV-STN-00291,CleanWatts Marseille #4,France,Marseille,43.204883,5.438517,25,62,250.0,0.356,0.426,190.9,87.04
+EV-STN-00292,GreenGrid Express Marseille #5,France,Marseille,43.247242,5.499778,34,72,200.0,0.626,0.632,152.7,97.96
+EV-STN-00293,Orbital Charge Marseille #6,France,Marseille,43.387628,5.543919,23,66,250.0,0.549,0.63,196.5,98.02
+EV-STN-00294,ElectraPoint Marseille #7,France,Marseille,43.272507,5.273084,13,34,120.0,0.191,0.181,112.8,62.6
+EV-STN-00295,SuperCharge Hub Marseille #8,France,Marseille,43.270441,5.351193,7,15,200.0,0.454,0.44,198.3,67.31
+EV-STN-00296,HyperPower Station Marseille #9,France,Marseille,43.30578,5.349411,22,84,50.0,0.522,0.426,45.3,72.08
+EV-STN-00297,HyperPower Station Marseille #10,France,Marseille,43.311708,5.508877,21,45,100.0,0.418,0.436,76.6,77.53
+EV-STN-00298,AmpPark Marseille #11,France,Marseille,43.330999,5.356952,23,68,250.0,0.631,0.558,210.0,95.64
+EV-STN-00299,HyperPower Station Marseille #12,France,Marseille,43.352029,5.498593,27,49,120.0,0.307,0.404,112.0,74.7
+EV-STN-00300,TerraWatt Depot London #1,United Kingdom,London,51.491148,-0.14077,42,104,50.0,0.524,0.434,45.8,82.92
+EV-STN-00301,PowerFlow Park London #2,United Kingdom,London,51.515498,-0.149451,9,26,250.0,0.416,0.425,231.4,80.35
+EV-STN-00302,VoltHub London #3,United Kingdom,London,51.580522,-0.165135,44,141,200.0,0.586,0.626,191.5,99.0
+EV-STN-00303,ElectraPoint London #4,United Kingdom,London,51.438246,-0.135902,20,42,120.0,0.224,0.164,113.3,70.48
+EV-STN-00304,EcoCurrent London #5,United Kingdom,London,51.39018,-0.147186,4,13,250.0,0.787,0.825,208.2,74.85
+EV-STN-00305,VoltHub London #6,United Kingdom,London,51.52892,-0.125024,9,36,75.0,0.618,0.548,70.9,73.63
+EV-STN-00306,Apex Charger London #7,United Kingdom,London,51.543823,-0.129956,20,50,50.0,0.185,0.248,48.2,64.38
+EV-STN-00307,EcoCurrent London #8,United Kingdom,London,51.521193,-0.193746,9,18,100.0,0.681,0.59,91.6,65.75
+EV-STN-00308,AmpPark London #9,United Kingdom,London,51.548689,-0.066813,7,19,200.0,0.39,0.313,198.1,67.12
+EV-STN-00309,CleanWatts London #10,United Kingdom,London,51.546641,-0.233332,32,126,75.0,0.604,0.663,58.7,91.2
+EV-STN-00310,Orbital Charge London #11,United Kingdom,London,51.367639,-0.082887,39,121,350.0,0.548,0.536,295.7,99.0
+EV-STN-00311,EcoCurrent London #12,United Kingdom,London,51.431189,-0.230868,10,31,250.0,0.492,0.57,190.4,80.79
+EV-STN-00312,TerraWatt Depot London #13,United Kingdom,London,51.550714,-0.061469,38,142,175.0,0.307,0.398,154.0,94.4
+EV-STN-00313,TerraWatt Depot London #14,United Kingdom,London,51.500565,-0.162023,44,165,200.0,0.487,0.52,157.4,99.0
+EV-STN-00314,VoltHub Manchester #1,United Kingdom,Manchester,53.387232,-2.047022,34,139,75.0,0.746,0.82,70.3,99.0
+EV-STN-00315,EcoCurrent Manchester #2,United Kingdom,Manchester,53.488379,-2.020305,5,15,120.0,0.535,0.511,92.4,53.2
+EV-STN-00316,ElectraPoint Manchester #3,United Kingdom,Manchester,53.503209,-2.185822,9,40,200.0,0.672,0.576,170.6,82.87
+EV-STN-00317,PulsePoint Manchester #4,United Kingdom,Manchester,53.391721,-2.290302,40,176,300.0,0.596,0.674,240.5,99.0
+EV-STN-00318,EcoCurrent Manchester #5,United Kingdom,Manchester,53.372881,-2.172078,31,83,175.0,0.687,0.707,162.6,96.52
+EV-STN-00319,ElectraPoint Manchester #6,United Kingdom,Manchester,53.540816,-2.17178,2,5,150.0,0.731,0.824,133.0,50.47
+EV-STN-00320,Apex Charger Manchester #7,United Kingdom,Manchester,53.49768,-2.218858,28,58,200.0,0.578,0.516,160.8,91.39
+EV-STN-00321,Orbital Charge Manchester #8,United Kingdom,Manchester,53.496378,-2.373469,8,30,350.0,0.183,0.21,273.3,80.85
+EV-STN-00322,GreenGrid Express Manchester #9,United Kingdom,Manchester,53.44603,-2.199116,33,59,200.0,0.665,0.676,191.9,98.78
+EV-STN-00323,AmpPark Manchester #10,United Kingdom,Manchester,53.558295,-2.309602,13,47,75.0,0.272,0.335,63.5,60.81
+EV-STN-00324,PulsePoint Manchester #11,United Kingdom,Manchester,53.41967,-2.178285,40,170,175.0,0.684,0.639,173.7,99.0
+EV-STN-00325,AmpPark Manchester #12,United Kingdom,Manchester,53.490004,-2.285732,40,147,300.0,0.674,0.634,289.6,99.0
+EV-STN-00326,PowerFlow Park Manchester #13,United Kingdom,Manchester,53.367069,-2.230854,20,73,100.0,0.795,0.722,87.6,92.0
+EV-STN-00327,TerraWatt Depot Manchester #14,United Kingdom,Manchester,53.429447,-2.34284,24,79,200.0,0.558,0.647,183.7,99.0
+EV-STN-00328,Apex Charger Manchester #15,United Kingdom,Manchester,53.442588,-2.154943,35,73,50.0,0.417,0.328,40.0,70.15
+EV-STN-00329,SparkPoint Manchester #16,United Kingdom,Manchester,53.512525,-2.477409,45,111,150.0,0.738,0.776,120.2,99.0
+EV-STN-00330,ElectraPoint Edinburgh #1,United Kingdom,Edinburgh,55.941244,-3.28819,37,152,120.0,0.67,0.682,105.3,99.0
+EV-STN-00331,SparkPoint Edinburgh #2,United Kingdom,Edinburgh,55.965735,-3.258421,44,84,175.0,0.417,0.4,173.5,97.95
+EV-STN-00332,HyperPower Station Edinburgh #3,United Kingdom,Edinburgh,55.980661,-3.30137,30,121,175.0,0.788,0.829,164.3,99.0
+EV-STN-00333,PulsePoint Edinburgh #4,United Kingdom,Edinburgh,55.950902,-3.247214,14,36,100.0,0.274,0.311,99.1,65.21
+EV-STN-00334,VoltHub Edinburgh #5,United Kingdom,Edinburgh,55.928202,-3.290899,10,22,250.0,0.742,0.643,231.9,87.75
+EV-STN-00335,SuperCharge Hub Edinburgh #6,United Kingdom,Edinburgh,56.064589,-3.137342,40,77,150.0,0.803,0.826,130.9,98.74
+EV-STN-00336,SparkPoint Edinburgh #7,United Kingdom,Edinburgh,55.932541,-3.216951,13,41,300.0,0.7,0.632,265.3,96.03
+EV-STN-00337,ElectraPoint Edinburgh #8,United Kingdom,Edinburgh,55.892687,-3.038106,44,118,350.0,0.403,0.347,308.9,99.0
+EV-STN-00338,PowerFlow Park Edinburgh #9,United Kingdom,Edinburgh,55.951328,-3.055712,30,73,120.0,0.6,0.684,118.8,92.0
+EV-STN-00339,PowerFlow Park Edinburgh #10,United Kingdom,Edinburgh,55.990192,-3.245909,9,25,300.0,0.528,0.485,286.7,84.97
+EV-STN-00340,AmpPark Edinburgh #11,United Kingdom,Edinburgh,56.017028,-3.262932,43,99,100.0,0.51,0.6,99.3,92.3
+EV-STN-00341,SparkPoint Edinburgh #12,United Kingdom,Edinburgh,55.947407,-3.19086,6,14,200.0,0.591,0.534,191.8,70.51
+EV-STN-00342,Apex Charger Edinburgh #13,United Kingdom,Edinburgh,56.043597,-3.035718,43,172,50.0,0.2,0.237,43.2,81.39
+EV-STN-00343,EcoCurrent Edinburgh #14,United Kingdom,Edinburgh,55.972253,-3.180086,13,51,120.0,0.541,0.556,117.3,78.41
+EV-STN-00344,NexGen EV Plaza Edinburgh #15,United Kingdom,Edinburgh,55.98333,-3.203346,45,95,75.0,0.154,0.198,70.4,75.94
+EV-STN-00345,VoltHub Oslo #1,Norway,Oslo,59.908004,10.715308,34,70,75.0,0.701,0.661,61.5,88.23
+EV-STN-00346,Orbital Charge Oslo #2,Norway,Oslo,59.892117,10.692055,36,86,300.0,0.673,0.732,247.1,99.0
+EV-STN-00347,PowerFlow Park Oslo #3,Norway,Oslo,59.960335,10.870194,43,120,300.0,0.815,0.826,235.6,99.0
+EV-STN-00348,NexGen EV Plaza Oslo #4,Norway,Oslo,59.930818,10.517019,21,49,120.0,0.669,0.714,102.4,83.26
+EV-STN-00349,PowerFlow Park Oslo #5,Norway,Oslo,59.930398,10.707764,13,31,100.0,0.734,0.673,91.8,74.82
+EV-STN-00350,SparkPoint Oslo #6,Norway,Oslo,59.907039,11.044389,31,109,150.0,0.201,0.235,116.2,79.82
+EV-STN-00351,TerraWatt Depot Oslo #7,Norway,Oslo,59.806315,10.633168,24,51,350.0,0.609,0.529,268.6,99.0
+EV-STN-00352,EcoCurrent Oslo #8,Norway,Oslo,59.967978,10.68877,39,86,200.0,0.547,0.609,158.4,96.26
+EV-STN-00353,EcoCurrent Oslo #9,Norway,Oslo,59.91475,10.822766,43,128,175.0,0.738,0.665,169.7,99.0
+EV-STN-00354,CleanWatts Oslo #10,Norway,Oslo,59.924803,10.70448,43,147,100.0,0.739,0.811,97.3,99.0
+EV-STN-00355,HyperPower Station Oslo #11,Norway,Oslo,59.905239,10.959483,6,22,50.0,0.774,0.844,47.7,62.8
+EV-STN-00356,HyperPower Station Oslo #12,Norway,Oslo,59.873171,10.857259,36,151,100.0,0.528,0.559,84.1,93.56
+EV-STN-00357,HyperPower Station Oslo #13,Norway,Oslo,59.9657,10.668278,20,43,175.0,0.501,0.419,153.2,78.49
+EV-STN-00358,SparkPoint Oslo #14,Norway,Oslo,59.831094,10.902647,34,74,350.0,0.261,0.274,320.2,99.0
+EV-STN-00359,SuperCharge Hub Oslo #15,Norway,Oslo,59.908822,10.637996,24,45,150.0,0.683,0.629,126.4,87.4
+EV-STN-00360,Apex Charger Oslo #16,Norway,Oslo,59.922944,10.777662,31,129,75.0,0.178,0.208,69.4,76.87
+EV-STN-00361,PowerFlow Park Bergen #1,Norway,Bergen,60.436832,5.153585,18,60,200.0,0.549,0.524,168.3,86.87
+EV-STN-00362,PulsePoint Bergen #2,Norway,Bergen,60.313297,5.319393,16,51,250.0,0.397,0.471,237.0,98.6
+EV-STN-00363,Apex Charger Bergen #3,Norway,Bergen,60.344481,5.249345,10,29,150.0,0.311,0.314,120.4,65.2
+EV-STN-00364,TerraWatt Depot Bergen #4,Norway,Bergen,60.435044,5.382899,28,111,250.0,0.654,0.65,217.4,99.0
+EV-STN-00365,GreenGrid Express Bergen #5,Norway,Bergen,60.441392,5.484657,3,7,100.0,0.24,0.258,90.7,37.97
+EV-STN-00366,VoltHub Bergen #6,Norway,Bergen,60.407184,5.436927,35,153,50.0,0.57,0.583,48.5,97.17
+EV-STN-00367,TerraWatt Depot Bergen #7,Norway,Bergen,60.369805,5.251855,7,16,250.0,0.575,0.569,198.2,74.42
+EV-STN-00368,SparkPoint Bergen #8,Norway,Bergen,60.331993,5.172027,41,146,175.0,0.335,0.38,171.6,97.33
+EV-STN-00369,GreenGrid Express Bergen #9,Norway,Bergen,60.360864,5.282682,26,56,300.0,0.162,0.167,276.3,92.33
+EV-STN-00370,SuperCharge Hub Bergen #10,Norway,Bergen,60.330833,5.183927,4,16,75.0,0.522,0.572,65.3,54.81
+EV-STN-00371,SuperCharge Hub Bergen #11,Norway,Bergen,60.442113,5.249321,2,8,300.0,0.692,0.722,256.6,73.19
+EV-STN-00372,NexGen EV Plaza Bergen #12,Norway,Bergen,60.336555,5.345521,26,71,350.0,0.713,0.795,271.1,99.0
+EV-STN-00373,SuperCharge Hub Bergen #13,Norway,Bergen,60.388882,5.494476,7,17,120.0,0.764,0.746,90.2,66.62
+EV-STN-00374,PulsePoint Bergen #14,Norway,Bergen,60.38533,5.331078,43,101,75.0,0.713,0.695,59.2,92.53
+EV-STN-00375,PowerFlow Park Bergen #15,Norway,Bergen,60.357851,5.281849,36,105,200.0,0.406,0.361,187.7,93.23
+EV-STN-00376,AmpPark Bergen #16,Norway,Bergen,60.43668,5.378185,32,79,200.0,0.365,0.334,186.8,94.33
+EV-STN-00377,Orbital Charge Trondheim #1,Norway,Trondheim,63.385714,10.238884,30,117,300.0,0.814,0.734,255.0,99.0
+EV-STN-00378,TerraWatt Depot Trondheim #2,Norway,Trondheim,63.484223,10.380492,26,114,100.0,0.154,0.1,86.8,76.08
+EV-STN-00379,GreenGrid Express Trondheim #3,Norway,Trondheim,63.413783,10.411169,16,44,200.0,0.576,0.621,180.7,84.55
+EV-STN-00380,GreenGrid Express Trondheim #4,Norway,Trondheim,63.420124,10.575357,13,45,300.0,0.457,0.397,246.5,91.72
+EV-STN-00381,VoltHub Trondheim #5,Norway,Trondheim,63.443157,10.264503,16,55,50.0,0.622,0.594,49.7,77.82
+EV-STN-00382,NexGen EV Plaza Trondheim #6,Norway,Trondheim,63.451352,10.327443,39,91,75.0,0.161,0.202,66.6,76.28
+EV-STN-00383,TerraWatt Depot Trondheim #7,Norway,Trondheim,63.483842,10.17741,24,65,120.0,0.721,0.666,103.6,88.83
+EV-STN-00384,SuperCharge Hub Trondheim #8,Norway,Trondheim,63.43324,10.350835,6,18,300.0,0.388,0.311,296.8,78.81
+EV-STN-00385,Apex Charger Trondheim #9,Norway,Trondheim,63.344211,10.348267,18,66,120.0,0.826,0.839,112.7,96.83
+EV-STN-00386,AmpPark Trondheim #10,Norway,Trondheim,63.417138,10.572198,32,67,120.0,0.197,0.224,110.3,72.62
+EV-STN-00387,HyperPower Station Trondheim #11,Norway,Trondheim,63.446484,10.285497,24,76,120.0,0.157,0.223,98.6,70.83
+EV-STN-00388,EcoCurrent Trondheim #12,Norway,Trondheim,63.479802,10.624906,32,84,100.0,0.303,0.318,98.7,83.14
+EV-STN-00389,PowerFlow Park Trondheim #13,Norway,Trondheim,63.459907,10.364291,14,34,120.0,0.319,0.272,96.1,64.19
+EV-STN-00390,SuperCharge Hub Trondheim #14,Norway,Trondheim,63.499922,10.405315,7,25,300.0,0.614,0.637,296.8,91.37
+EV-STN-00391,Orbital Charge Trondheim #15,Norway,Trondheim,63.361312,10.412382,33,139,150.0,0.767,0.782,130.9,99.0
+EV-STN-00392,CleanWatts Trondheim #16,Norway,Trondheim,63.419606,10.245947,10,19,300.0,0.709,0.705,227.4,87.09
+EV-STN-00393,EcoCurrent Trondheim #17,Norway,Trondheim,63.370716,10.500514,13,39,175.0,0.234,0.238,161.4,73.43
+EV-STN-00394,GreenGrid Express Trondheim #18,Norway,Trondheim,63.433052,10.480487,18,41,350.0,0.334,0.288,292.5,93.19
+EV-STN-00395,AmpPark Stockholm #1,Sweden,Stockholm,59.283025,18.115585,25,69,350.0,0.43,0.42,274.0,99.0
+EV-STN-00396,ElectraPoint Stockholm #2,Sweden,Stockholm,59.312767,18.036328,37,109,100.0,0.417,0.346,86.8,80.93
+EV-STN-00397,VoltHub Stockholm #3,Sweden,Stockholm,59.35548,18.171894,42,134,150.0,0.654,0.711,121.9,99.0
+EV-STN-00398,ElectraPoint Stockholm #4,Sweden,Stockholm,59.31716,18.056012,18,55,175.0,0.591,0.581,142.6,86.08
+EV-STN-00399,EcoCurrent Stockholm #5,Sweden,Stockholm,59.221645,17.984504,18,49,350.0,0.438,0.408,279.9,93.15
+EV-STN-00400,SuperCharge Hub Stockholm #6,Sweden,Stockholm,59.296085,18.148151,22,79,75.0,0.491,0.538,63.4,80.69
+EV-STN-00401,CleanWatts Stockholm #7,Sweden,Stockholm,59.207291,18.124037,12,42,350.0,0.8,0.784,312.5,99.0
+EV-STN-00402,SuperCharge Hub Stockholm #8,Sweden,Stockholm,59.313659,18.021424,43,111,150.0,0.337,0.366,145.8,94.21
+EV-STN-00403,SparkPoint Stockholm #9,Sweden,Stockholm,59.360218,17.997909,39,125,50.0,0.465,0.398,39.1,83.59
+EV-STN-00404,TerraWatt Depot Stockholm #10,Sweden,Stockholm,59.367194,18.056392,12,34,250.0,0.217,0.304,221.8,76.74
+EV-STN-00405,VoltHub Stockholm #11,Sweden,Stockholm,59.33729,17.950201,7,14,200.0,0.583,0.5,165.5,66.07
+EV-STN-00406,PowerFlow Park Stockholm #12,Sweden,Stockholm,59.37018,18.152625,12,22,175.0,0.614,0.686,169.1,80.74
+EV-STN-00407,AmpPark Stockholm #13,Sweden,Stockholm,59.390893,18.049461,19,62,300.0,0.245,0.335,238.3,87.76
+EV-STN-00408,Apex Charger Gothenburg #1,Sweden,Gothenburg,57.66827,11.869731,42,136,120.0,0.786,0.782,114.1,99.0
+EV-STN-00409,AmpPark Gothenburg #2,Sweden,Gothenburg,57.690569,12.064778,11,28,100.0,0.15,0.213,83.6,55.2
+EV-STN-00410,Apex Charger Gothenburg #3,Sweden,Gothenburg,57.710143,11.817718,21,38,120.0,0.451,0.41,113.9,74.3
+EV-STN-00411,PulsePoint Gothenburg #4,Sweden,Gothenburg,57.672791,12.043353,37,110,200.0,0.325,0.368,191.4,97.25
+EV-STN-00412,PowerFlow Park Gothenburg #5,Sweden,Gothenburg,57.728867,11.985032,41,163,300.0,0.629,0.586,285.7,99.0
+EV-STN-00413,NexGen EV Plaza Gothenburg #6,Sweden,Gothenburg,57.716052,12.007208,10,25,150.0,0.596,0.62,138.8,72.07
+EV-STN-00414,SuperCharge Hub Gothenburg #7,Sweden,Gothenburg,57.71111,12.084833,13,57,250.0,0.347,0.272,232.9,89.26
+EV-STN-00415,HyperPower Station Gothenburg #8,Sweden,Gothenburg,57.716166,11.983255,15,40,175.0,0.368,0.428,151.5,77.4
+EV-STN-00416,Orbital Charge Gothenburg #9,Sweden,Gothenburg,57.665639,11.974788,19,73,120.0,0.2,0.194,116.9,73.89
+EV-STN-00417,CleanWatts Gothenburg #10,Sweden,Gothenburg,57.747388,11.814368,9,39,250.0,0.65,0.627,202.9,90.73
+EV-STN-00418,TerraWatt Depot Gothenburg #11,Sweden,Gothenburg,57.707756,11.98954,15,46,175.0,0.627,0.589,138.2,80.93
+EV-STN-00419,TerraWatt Depot Gothenburg #12,Sweden,Gothenburg,57.822503,12.032324,35,74,175.0,0.487,0.447,170.1,94.0
+EV-STN-00420,ElectraPoint Gothenburg #13,Sweden,Gothenburg,57.682418,11.983396,2,4,120.0,0.343,0.267,90.3,30.11
+EV-STN-00421,VoltHub Gothenburg #14,Sweden,Gothenburg,57.642023,11.904671,40,88,250.0,0.69,0.64,193.2,99.0
+EV-STN-00422,SparkPoint Gothenburg #15,Sweden,Gothenburg,57.630505,11.951383,43,95,250.0,0.525,0.446,202.0,99.0
+EV-STN-00423,PulsePoint Gothenburg #16,Sweden,Gothenburg,57.72907,11.821833,30,113,100.0,0.165,0.141,81.3,80.97
+EV-STN-00424,PulsePoint Gothenburg #17,Sweden,Gothenburg,57.72813,11.934495,14,46,250.0,0.531,0.496,204.7,92.31
+EV-STN-00425,GreenGrid Express Zurich #1,Switzerland,Zurich,47.431523,8.493636,6,19,300.0,0.465,0.529,252.5,82.25
+EV-STN-00426,NexGen EV Plaza Zurich #2,Switzerland,Zurich,47.377222,8.526024,41,168,75.0,0.693,0.641,68.6,94.15
+EV-STN-00427,PulsePoint Zurich #3,Switzerland,Zurich,47.39054,8.498224,45,141,175.0,0.536,0.559,149.2,99.0
+EV-STN-00428,PowerFlow Park Zurich #4,Switzerland,Zurich,47.397131,8.669784,10,22,120.0,0.172,0.1,93.0,53.3
+EV-STN-00429,GreenGrid Express Zurich #5,Switzerland,Zurich,47.345707,8.484755,33,106,175.0,0.641,0.592,140.9,98.81
+EV-STN-00430,Apex Charger Zurich #6,Switzerland,Zurich,47.36895,8.563711,7,21,200.0,0.597,0.569,191.1,78.74
+EV-STN-00431,SparkPoint Zurich #7,Switzerland,Zurich,47.352849,8.408813,19,61,75.0,0.664,0.731,74.0,85.2
+EV-STN-00432,TerraWatt Depot Zurich #8,Switzerland,Zurich,47.37136,8.550368,14,45,100.0,0.324,0.349,89.0,71.09
+EV-STN-00433,PulsePoint Zurich #9,Switzerland,Zurich,47.356562,8.559415,42,140,200.0,0.622,0.663,194.1,99.0
+EV-STN-00434,NexGen EV Plaza Zurich #10,Switzerland,Zurich,47.404227,8.433654,36,161,175.0,0.46,0.43,155.3,99.0
+EV-STN-00435,EcoCurrent Zurich #11,Switzerland,Zurich,47.40584,8.478691,42,124,350.0,0.658,0.68,310.2,99.0
+EV-STN-00436,TerraWatt Depot Zurich #12,Switzerland,Zurich,47.421577,8.536856,30,131,150.0,0.15,0.1,134.8,91.33
+EV-STN-00437,PulsePoint Zurich #13,Switzerland,Zurich,47.446378,8.658203,2,5,50.0,0.305,0.376,47.1,30.9
+EV-STN-00438,Apex Charger Zurich #14,Switzerland,Zurich,47.344509,8.452868,38,84,100.0,0.176,0.147,81.6,73.11
+EV-STN-00439,Apex Charger Zurich #15,Switzerland,Zurich,47.345227,8.515155,21,43,75.0,0.43,0.514,69.8,72.3
+EV-STN-00440,Orbital Charge Zurich #16,Switzerland,Zurich,47.347204,8.634344,8,27,350.0,0.36,0.406,295.9,83.72
+EV-STN-00441,SparkPoint Zurich #17,Switzerland,Zurich,47.457493,8.585329,24,100,75.0,0.454,0.54,72.6,85.87
+EV-STN-00442,GreenGrid Express Zurich #18,Switzerland,Zurich,47.448849,8.636029,42,118,300.0,0.363,0.271,267.4,99.0
+EV-STN-00443,PulsePoint Vienna #1,Austria,Vienna,48.198906,16.332842,45,169,350.0,0.425,0.414,312.8,99.0
+EV-STN-00444,SparkPoint Vienna #2,Austria,Vienna,48.236716,16.342336,7,21,150.0,0.672,0.682,115.7,70.86
+EV-STN-00445,PulsePoint Vienna #3,Austria,Vienna,48.137302,16.420242,10,30,350.0,0.289,0.268,279.7,79.68
+EV-STN-00446,HyperPower Station Vienna #4,Austria,Vienna,48.153878,16.37665,29,77,200.0,0.797,0.715,171.2,99.0
+EV-STN-00447,EcoCurrent Vienna #5,Austria,Vienna,48.224986,16.437995,43,80,350.0,0.363,0.461,334.4,99.0
+EV-STN-00448,AmpPark Vienna #6,Austria,Vienna,48.142152,16.506863,14,51,75.0,0.259,0.305,58.4,66.33
+EV-STN-00449,VoltHub Vienna #7,Austria,Vienna,48.211241,16.478213,11,45,75.0,0.724,0.627,62.0,73.63
+EV-STN-00450,TerraWatt Depot Vienna #8,Austria,Vienna,48.216284,16.324584,35,133,100.0,0.534,0.559,92.4,93.98
+EV-STN-00451,PowerFlow Park Vienna #9,Austria,Vienna,48.273891,16.38524,44,141,120.0,0.329,0.241,113.7,88.98
+EV-STN-00452,PowerFlow Park Vienna #10,Austria,Vienna,48.19705,16.400019,44,111,75.0,0.746,0.778,56.6,95.04
+EV-STN-00453,Orbital Charge Vienna #11,Austria,Vienna,48.244946,16.324196,26,82,250.0,0.647,0.728,241.7,99.0
+EV-STN-00454,PulsePoint Vienna #12,Austria,Vienna,48.201873,16.467943,3,5,250.0,0.796,0.757,212.1,61.82
+EV-STN-00455,SuperCharge Hub Vienna #13,Austria,Vienna,48.283622,16.386923,24,83,300.0,0.315,0.411,245.7,99.0
+EV-STN-00456,NexGen EV Plaza Vienna #14,Austria,Vienna,48.222861,16.480197,3,13,175.0,0.814,0.759,170.5,68.01
+EV-STN-00457,SuperCharge Hub Copenhagen #1,Denmark,Copenhagen,55.717893,12.613908,45,155,120.0,0.588,0.533,107.2,97.45
+EV-STN-00458,GreenGrid Express Copenhagen #2,Denmark,Copenhagen,55.69539,12.515334,15,53,120.0,0.557,0.594,115.9,85.1
+EV-STN-00459,CleanWatts Copenhagen #3,Denmark,Copenhagen,55.635801,12.392544,10,29,350.0,0.786,0.84,342.7,99.0
+EV-STN-00460,TerraWatt Depot Copenhagen #4,Denmark,Copenhagen,55.734279,12.625345,11,41,200.0,0.686,0.762,198.1,94.08
+EV-STN-00461,CleanWatts Copenhagen #5,Denmark,Copenhagen,55.566988,12.64072,42,181,75.0,0.342,0.398,58.7,96.89
+EV-STN-00462,GreenGrid Express Copenhagen #6,Denmark,Copenhagen,55.700031,12.556166,16,54,75.0,0.312,0.217,69.2,69.96
+EV-STN-00463,AmpPark Copenhagen #7,Denmark,Copenhagen,55.74049,12.696338,32,119,250.0,0.412,0.482,217.1,99.0
+EV-STN-00464,NexGen EV Plaza Copenhagen #8,Denmark,Copenhagen,55.706787,12.569707,19,82,120.0,0.306,0.34,112.7,80.4
+EV-STN-00465,ElectraPoint Copenhagen #9,Denmark,Copenhagen,55.731119,12.766143,30,124,250.0,0.493,0.458,243.0,99.0
+EV-STN-00466,GreenGrid Express Copenhagen #10,Denmark,Copenhagen,55.714135,12.560315,22,63,300.0,0.807,0.821,264.4,99.0
+EV-STN-00467,Apex Charger Copenhagen #11,Denmark,Copenhagen,55.672116,12.544474,8,24,120.0,0.729,0.637,105.6,67.96
+EV-STN-00468,PulsePoint Copenhagen #12,Denmark,Copenhagen,55.725808,12.453584,5,11,150.0,0.458,0.535,129.8,58.63
+EV-STN-00469,NexGen EV Plaza Copenhagen #13,Denmark,Copenhagen,55.645215,12.759428,35,148,75.0,0.475,0.504,69.8,94.74
+EV-STN-00470,Apex Charger Copenhagen #14,Denmark,Copenhagen,55.732779,12.552419,28,74,120.0,0.167,0.158,116.5,74.19
+EV-STN-00471,ElectraPoint Copenhagen #15,Denmark,Copenhagen,55.67606,12.704333,12,44,250.0,0.236,0.159,227.1,83.1
+EV-STN-00472,TerraWatt Depot Copenhagen #16,Denmark,Copenhagen,55.716126,12.595391,12,33,175.0,0.416,0.47,156.0,72.48
+EV-STN-00473,PowerFlow Park Copenhagen #17,Denmark,Copenhagen,55.695439,12.528232,11,25,150.0,0.648,0.632,139.9,77.79
+EV-STN-00474,ElectraPoint Helsinki #1,Finland,Helsinki,60.159877,25.143695,2,6,250.0,0.327,0.319,221.5,45.48
+EV-STN-00475,VoltHub Helsinki #2,Finland,Helsinki,60.124499,24.864821,15,50,75.0,0.483,0.465,67.5,77.43
+EV-STN-00476,CleanWatts Helsinki #3,Finland,Helsinki,60.174169,24.844697,15,28,50.0,0.254,0.285,39.3,52.28
+EV-STN-00477,VoltHub Helsinki #4,Finland,Helsinki,60.122371,24.772109,21,56,100.0,0.211,0.133,79.0,65.51
+EV-STN-00478,TerraWatt Depot Helsinki #5,Finland,Helsinki,60.241728,24.792104,13,57,50.0,0.675,0.647,38.7,74.2
+EV-STN-00479,CleanWatts Helsinki #6,Finland,Helsinki,60.122752,25.130889,6,23,250.0,0.74,0.653,195.9,80.39
+EV-STN-00480,PulsePoint Helsinki #7,Finland,Helsinki,60.132251,24.879295,15,51,300.0,0.227,0.273,299.0,93.92
+EV-STN-00481,AmpPark Helsinki #8,Finland,Helsinki,60.158851,24.803251,20,59,350.0,0.743,0.695,349.6,99.0
+EV-STN-00482,GreenGrid Express Helsinki #9,Finland,Helsinki,60.190842,24.77597,33,103,150.0,0.276,0.298,149.2,88.8
+EV-STN-00483,VoltHub Helsinki #10,Finland,Helsinki,60.211088,25.014419,9,34,200.0,0.295,0.318,170.7,70.56
+EV-STN-00484,PowerFlow Park Helsinki #11,Finland,Helsinki,60.225325,24.972113,20,49,300.0,0.197,0.157,249.3,88.45
+EV-STN-00485,VoltHub Helsinki #12,Finland,Helsinki,60.203888,24.997757,27,101,100.0,0.581,0.487,79.9,90.38
+EV-STN-00486,AmpPark Helsinki #13,Finland,Helsinki,60.072198,25.093631,43,93,300.0,0.259,0.251,292.2,99.0
+EV-STN-00487,SparkPoint Milan #1,Italy,Milan,45.509175,9.039659,5,20,175.0,0.36,0.405,155.5,66.81
+EV-STN-00488,EcoCurrent Milan #2,Italy,Milan,45.4719,9.235686,24,47,175.0,0.255,0.323,174.3,75.14
+EV-STN-00489,PowerFlow Park Milan #3,Italy,Milan,45.434772,9.180822,40,114,150.0,0.567,0.64,138.9,99.0
+EV-STN-00490,NexGen EV Plaza Milan #4,Italy,Milan,45.47585,9.314788,25,75,150.0,0.816,0.759,119.1,98.76
+EV-STN-00491,EcoCurrent Milan #5,Italy,Milan,45.483088,9.069319,7,20,300.0,0.167,0.164,236.6,65.43
+EV-STN-00492,Orbital Charge Milan #6,Italy,Milan,45.512703,9.068123,11,42,300.0,0.219,0.315,275.8,86.6
+EV-STN-00493,SuperCharge Hub Milan #7,Italy,Milan,45.467991,9.208689,26,96,50.0,0.516,0.417,46.1,79.51
+EV-STN-00494,AmpPark Milan #8,Italy,Milan,45.452283,9.215517,44,167,120.0,0.166,0.218,99.6,86.79
+EV-STN-00495,HyperPower Station Milan #9,Italy,Milan,45.450162,9.275576,30,108,75.0,0.341,0.272,56.5,76.36
+EV-STN-00496,HyperPower Station Milan #10,Italy,Milan,45.422276,9.103182,19,41,120.0,0.643,0.6,95.1,77.76
+EV-STN-00497,CleanWatts Milan #11,Italy,Milan,45.429762,9.147654,30,58,50.0,0.17,0.251,38.8,67.49
+EV-STN-00498,SuperCharge Hub Milan #12,Italy,Milan,45.481685,9.147808,42,170,150.0,0.64,0.663,125.0,99.0
+EV-STN-00499,HyperPower Station Milan #13,Italy,Milan,45.44698,9.086592,36,72,350.0,0.796,0.849,274.0,99.0
+EV-STN-00500,AmpPark Milan #14,Italy,Milan,45.360552,9.240337,43,159,120.0,0.476,0.422,94.3,95.67
+EV-STN-00501,Apex Charger Milan #15,Italy,Milan,45.382241,9.084413,27,61,175.0,0.792,0.758,151.1,99.0
+EV-STN-00502,AmpPark Rome #1,Italy,Rome,41.913534,12.456497,24,82,75.0,0.239,0.16,62.4,71.39
+EV-STN-00503,PowerFlow Park Rome #2,Italy,Rome,41.941067,12.52096,31,89,300.0,0.439,0.463,236.9,99.0
+EV-STN-00504,HyperPower Station Rome #3,Italy,Rome,41.904843,12.531512,29,96,100.0,0.39,0.429,91.6,81.39
+EV-STN-00505,ElectraPoint Rome #4,Italy,Rome,41.897534,12.390652,33,69,75.0,0.567,0.532,71.7,85.4
+EV-STN-00506,ElectraPoint Rome #5,Italy,Rome,42.014518,12.41308,40,155,50.0,0.415,0.414,38.6,83.94
+EV-STN-00507,Orbital Charge Rome #6,Italy,Rome,41.94517,12.564267,42,167,250.0,0.68,0.712,220.7,99.0
+EV-STN-00508,HyperPower Station Rome #7,Italy,Rome,41.944667,12.534252,21,70,200.0,0.789,0.75,185.9,99.0
+EV-STN-00509,Apex Charger Rome #8,Italy,Rome,41.890728,12.520506,2,6,150.0,0.507,0.577,114.8,49.14
+EV-STN-00510,VoltHub Rome #9,Italy,Rome,41.826444,12.460413,24,50,200.0,0.348,0.254,185.1,77.91
+EV-STN-00511,NexGen EV Plaza Rome #10,Italy,Rome,41.847108,12.421371,27,76,250.0,0.532,0.564,196.2,93.52
+EV-STN-00512,EcoCurrent Rome #11,Italy,Rome,41.86995,12.51723,44,94,100.0,0.158,0.188,93.0,76.89
+EV-STN-00513,AmpPark Rome #12,Italy,Rome,41.828552,12.343641,10,20,250.0,0.6,0.583,243.3,81.37
+EV-STN-00514,GreenGrid Express Rome #13,Italy,Rome,41.794121,12.530629,37,148,200.0,0.419,0.364,180.2,99.0
+EV-STN-00515,GreenGrid Express Rome #14,Italy,Rome,41.821789,12.49766,34,85,50.0,0.799,0.814,49.7,87.81
+EV-STN-00516,GreenGrid Express Madrid #1,Spain,Madrid,40.384364,-3.803704,11,41,150.0,0.518,0.59,129.9,79.24
+EV-STN-00517,ElectraPoint Madrid #2,Spain,Madrid,40.348916,-3.71698,17,52,75.0,0.669,0.761,69.1,78.32
+EV-STN-00518,GreenGrid Express Madrid #3,Spain,Madrid,40.400752,-3.646827,2,6,175.0,0.509,0.503,149.7,47.44
+EV-STN-00519,SparkPoint Madrid #4,Spain,Madrid,40.408423,-3.665586,40,152,50.0,0.659,0.672,45.4,92.09
+EV-STN-00520,PowerFlow Park Madrid #5,Spain,Madrid,40.386051,-3.58454,41,76,75.0,0.489,0.414,72.2,81.36
+EV-STN-00521,CleanWatts Madrid #6,Spain,Madrid,40.415909,-3.61297,19,78,100.0,0.16,0.1,97.8,71.48
+EV-STN-00522,EcoCurrent Madrid #7,Spain,Madrid,40.343616,-3.685633,17,52,175.0,0.71,0.782,174.3,93.31
+EV-STN-00523,SuperCharge Hub Madrid #8,Spain,Madrid,40.34018,-3.772697,33,126,250.0,0.439,0.416,232.9,99.0
+EV-STN-00524,Orbital Charge Madrid #9,Spain,Madrid,40.473788,-3.756765,9,17,250.0,0.475,0.47,234.1,78.72
+EV-STN-00525,SparkPoint Madrid #10,Spain,Madrid,40.449034,-3.726231,45,166,200.0,0.482,0.411,150.6,99.0
+EV-STN-00526,PowerFlow Park Madrid #11,Spain,Madrid,40.392705,-3.736182,4,8,200.0,0.522,0.493,180.5,59.88
+EV-STN-00527,PowerFlow Park Madrid #12,Spain,Madrid,40.445226,-3.749894,19,75,250.0,0.329,0.346,235.8,94.63
+EV-STN-00528,SparkPoint Barcelona #1,Spain,Barcelona,41.306494,2.190409,13,34,75.0,0.157,0.1,56.5,55.74
+EV-STN-00529,ElectraPoint Barcelona #2,Spain,Barcelona,41.312805,2.153876,24,57,50.0,0.348,0.287,45.2,70.99
+EV-STN-00530,Apex Charger Barcelona #3,Spain,Barcelona,41.411391,2.253481,42,89,350.0,0.82,0.737,273.9,99.0
+EV-STN-00531,PowerFlow Park Barcelona #4,Spain,Barcelona,41.394182,2.073971,13,54,250.0,0.637,0.588,228.8,99.0
+EV-STN-00532,CleanWatts Barcelona #5,Spain,Barcelona,41.413071,2.182314,44,170,75.0,0.376,0.308,61.4,84.19
+EV-STN-00533,VoltHub Barcelona #6,Spain,Barcelona,41.354583,2.210156,5,12,75.0,0.719,0.655,65.5,58.45
+EV-STN-00534,SuperCharge Hub Barcelona #7,Spain,Barcelona,41.358123,2.150407,36,139,250.0,0.303,0.332,232.2,99.0
+EV-STN-00535,ElectraPoint Barcelona #8,Spain,Barcelona,41.40655,2.175434,18,70,50.0,0.163,0.163,49.2,64.3
+EV-STN-00536,TerraWatt Depot Barcelona #9,Spain,Barcelona,41.354071,2.137969,2,6,200.0,0.808,0.806,170.2,61.27
+EV-STN-00537,TerraWatt Depot Barcelona #10,Spain,Barcelona,41.404844,2.055183,36,86,250.0,0.419,0.457,195.1,89.54
+EV-STN-00538,EcoCurrent Barcelona #11,Spain,Barcelona,41.353889,2.141896,42,188,175.0,0.603,0.576,134.8,99.0
+EV-STN-00539,AmpPark Barcelona #12,Spain,Barcelona,41.390616,2.114866,14,31,120.0,0.178,0.155,99.0,58.19
+EV-STN-00540,TerraWatt Depot Barcelona #13,Spain,Barcelona,41.403033,2.15211,42,125,50.0,0.283,0.19,46.5,78.87
+EV-STN-00541,GreenGrid Express Barcelona #14,Spain,Barcelona,41.391486,2.235855,36,127,250.0,0.5,0.593,247.9,99.0
+EV-STN-00542,EcoCurrent Barcelona #15,Spain,Barcelona,41.392588,2.174536,9,21,300.0,0.608,0.613,236.2,82.54
+EV-STN-00543,GreenGrid Express Barcelona #16,Spain,Barcelona,41.389963,2.195523,11,34,350.0,0.163,0.244,266.5,80.49
+EV-STN-00544,PowerFlow Park Shanghai #1,China,Shanghai,31.205182,121.521362,8,24,75.0,0.269,0.287,58.4,52.99
+EV-STN-00545,GreenGrid Express Shanghai #2,China,Shanghai,31.241134,121.434374,14,41,200.0,0.718,0.814,166.2,94.11
+EV-STN-00546,SuperCharge Hub Shanghai #3,China,Shanghai,31.220501,121.407954,15,57,75.0,0.565,0.532,61.4,81.74
+EV-STN-00547,SparkPoint Shanghai #4,China,Shanghai,31.16392,121.519577,37,83,100.0,0.321,0.337,77.5,80.97
+EV-STN-00548,SparkPoint Shanghai #5,China,Shanghai,31.174042,121.5396,7,12,350.0,0.276,0.194,340.1,79.27
+EV-STN-00549,NexGen EV Plaza Shanghai #6,China,Shanghai,31.199592,121.376502,32,117,300.0,0.294,0.322,258.8,99.0
+EV-STN-00550,TerraWatt Depot Shanghai #7,China,Shanghai,31.261299,121.509514,33,113,150.0,0.212,0.277,125.5,86.23
+EV-STN-00551,VoltHub Shanghai #8,China,Shanghai,31.199882,121.46016,35,155,300.0,0.583,0.656,263.1,99.0
+EV-STN-00552,HyperPower Station Shanghai #9,China,Shanghai,31.246044,121.467358,11,40,100.0,0.828,0.823,79.0,82.78
+EV-STN-00553,Apex Charger Shanghai #10,China,Shanghai,31.299722,121.496216,20,47,250.0,0.326,0.349,190.2,82.38
+EV-STN-00554,SuperCharge Hub Shanghai #11,China,Shanghai,31.116843,121.481457,34,71,350.0,0.777,0.821,313.2,99.0
+EV-STN-00555,NexGen EV Plaza Shanghai #12,China,Shanghai,31.254184,121.557074,22,53,120.0,0.227,0.173,112.1,72.34
+EV-STN-00556,HyperPower Station Shanghai #13,China,Shanghai,31.195006,121.543129,5,21,250.0,0.251,0.337,198.6,68.11
+EV-STN-00557,SuperCharge Hub Beijing #1,China,Beijing,39.872498,116.418638,24,106,350.0,0.292,0.217,267.7,99.0
+EV-STN-00558,AmpPark Beijing #2,China,Beijing,39.978075,116.311455,16,67,350.0,0.573,0.631,341.7,99.0
+EV-STN-00559,GreenGrid Express Beijing #3,China,Beijing,40.000736,116.383505,7,20,120.0,0.515,0.587,107.7,65.39
+EV-STN-00560,TerraWatt Depot Beijing #4,China,Beijing,39.869637,116.288358,17,45,350.0,0.556,0.634,345.3,99.0
+EV-STN-00561,Apex Charger Beijing #5,China,Beijing,39.899686,116.404462,4,7,50.0,0.479,0.533,42.8,35.38
+EV-STN-00562,TerraWatt Depot Beijing #6,China,Beijing,39.960333,116.438383,17,34,200.0,0.677,0.716,197.5,88.11
+EV-STN-00563,SuperCharge Hub Beijing #7,China,Beijing,39.880927,116.444829,7,12,250.0,0.618,0.55,241.1,74.62
+EV-STN-00564,AmpPark Beijing #8,China,Beijing,39.893085,116.372712,27,62,50.0,0.76,0.785,48.3,85.28
+EV-STN-00565,ElectraPoint Beijing #9,China,Beijing,39.846778,116.473494,35,66,350.0,0.448,0.402,310.0,99.0
+EV-STN-00566,ElectraPoint Beijing #10,China,Beijing,39.819589,116.364542,5,15,50.0,0.787,0.76,38.9,56.56
+EV-STN-00567,EcoCurrent Beijing #11,China,Beijing,39.890096,116.411467,25,56,120.0,0.541,0.454,94.2,77.99
+EV-STN-00568,PowerFlow Park Beijing #12,China,Beijing,39.95782,116.254583,39,161,120.0,0.642,0.693,99.6,99.0
+EV-STN-00569,Apex Charger Beijing #13,China,Beijing,39.895982,116.50524,19,36,300.0,0.411,0.401,264.5,93.04
+EV-STN-00570,PowerFlow Park Beijing #14,China,Beijing,39.95901,116.471121,30,104,75.0,0.71,0.799,59.8,88.6
+EV-STN-00571,ElectraPoint Shenzhen #1,China,Shenzhen,22.636655,114.113729,20,87,75.0,0.204,0.137,69.3,66.36
+EV-STN-00572,PulsePoint Shenzhen #2,China,Shenzhen,22.545452,114.068978,28,123,175.0,0.529,0.455,149.6,97.53
+EV-STN-00573,TerraWatt Depot Shenzhen #3,China,Shenzhen,22.517593,114.022441,6,11,300.0,0.711,0.778,273.4,80.2
+EV-STN-00574,PowerFlow Park Shenzhen #4,China,Shenzhen,22.567235,114.072226,44,161,150.0,0.739,0.728,133.8,99.0
+EV-STN-00575,Apex Charger Shenzhen #5,China,Shenzhen,22.550611,114.025677,18,43,50.0,0.41,0.368,39.4,63.28
+EV-STN-00576,GreenGrid Express Shenzhen #6,China,Shenzhen,22.665262,114.133776,20,45,100.0,0.273,0.315,79.0,65.6
+EV-STN-00577,ElectraPoint Shenzhen #7,China,Shenzhen,22.58528,114.069979,10,29,50.0,0.409,0.35,45.8,58.85
+EV-STN-00578,AmpPark Shenzhen #8,China,Shenzhen,22.539205,114.026655,21,44,100.0,0.167,0.253,98.7,66.63
+EV-STN-00579,Apex Charger Shenzhen #9,China,Shenzhen,22.541119,114.062442,36,159,250.0,0.382,0.423,243.5,99.0
+EV-STN-00580,GreenGrid Express Shenzhen #10,China,Shenzhen,22.527201,114.009485,30,81,50.0,0.229,0.225,39.2,65.93
+EV-STN-00581,PulsePoint Shenzhen #11,China,Shenzhen,22.551417,114.066029,41,166,50.0,0.462,0.38,45.1,89.16
+EV-STN-00582,SparkPoint Shenzhen #12,China,Shenzhen,22.600639,114.098067,3,6,75.0,0.745,0.78,74.5,47.07
+EV-STN-00583,NexGen EV Plaza Shenzhen #13,China,Shenzhen,22.558053,114.102388,40,127,200.0,0.189,0.222,157.4,92.06
+EV-STN-00584,EcoCurrent Shenzhen #14,China,Shenzhen,22.504926,114.107548,21,93,250.0,0.762,0.68,233.8,99.0
+EV-STN-00585,NexGen EV Plaza Shenzhen #15,China,Shenzhen,22.556757,114.015738,29,109,350.0,0.44,0.507,270.0,99.0
+EV-STN-00586,PulsePoint Guangzhou #1,China,Guangzhou,23.183844,113.284439,39,149,150.0,0.212,0.194,128.0,89.13
+EV-STN-00587,PulsePoint Guangzhou #2,China,Guangzhou,23.066152,113.281006,10,23,250.0,0.733,0.691,190.1,84.84
+EV-STN-00588,CleanWatts Guangzhou #3,China,Guangzhou,23.044928,113.175237,16,29,250.0,0.152,0.105,195.3,69.32
+EV-STN-00589,PowerFlow Park Guangzhou #4,China,Guangzhou,23.169684,113.229129,33,140,150.0,0.601,0.507,131.0,99.0
+EV-STN-00590,EcoCurrent Guangzhou #5,China,Guangzhou,23.116697,113.203104,18,62,75.0,0.483,0.522,63.2,74.85
+EV-STN-00591,TerraWatt Depot Guangzhou #6,China,Guangzhou,23.043106,113.216559,12,40,100.0,0.252,0.244,83.9,65.15
+EV-STN-00592,PowerFlow Park Guangzhou #7,China,Guangzhou,23.144542,113.307823,20,51,120.0,0.597,0.512,113.0,80.31
+EV-STN-00593,SuperCharge Hub Guangzhou #8,China,Guangzhou,23.135328,113.191234,12,39,150.0,0.761,0.826,122.7,84.55
+EV-STN-00594,PulsePoint Guangzhou #9,China,Guangzhou,23.084166,113.175703,2,4,200.0,0.347,0.403,167.0,36.92
+EV-STN-00595,Apex Charger Guangzhou #10,China,Guangzhou,23.147316,113.296966,34,81,350.0,0.282,0.361,322.8,99.0
+EV-STN-00596,TerraWatt Depot Guangzhou #11,China,Guangzhou,23.100655,113.177708,9,26,100.0,0.791,0.714,98.1,72.8
+EV-STN-00597,AmpPark Guangzhou #12,China,Guangzhou,23.084755,113.332364,10,40,175.0,0.773,0.793,138.8,85.38
+EV-STN-00598,ElectraPoint Guangzhou #13,China,Guangzhou,23.206867,113.282925,11,40,75.0,0.365,0.307,64.2,68.0
+EV-STN-00599,SparkPoint Guangzhou #14,China,Guangzhou,23.133368,113.243025,32,123,300.0,0.18,0.102,269.5,95.35
+EV-STN-00600,VoltHub Guangzhou #15,China,Guangzhou,23.15021,113.338204,8,31,120.0,0.794,0.735,95.5,77.98
+EV-STN-00601,EcoCurrent Guangzhou #16,China,Guangzhou,23.156673,113.269975,19,82,300.0,0.393,0.325,283.6,99.0
+EV-STN-00602,ElectraPoint Guangzhou #17,China,Guangzhou,23.090466,113.322425,2,6,100.0,0.651,0.744,97.5,48.81
+EV-STN-00603,PulsePoint Guangzhou #18,China,Guangzhou,23.209452,113.266777,15,64,350.0,0.746,0.741,278.7,99.0
+EV-STN-00604,EcoCurrent Tokyo #1,Japan,Tokyo,35.655072,139.714516,34,82,75.0,0.229,0.326,65.0,75.08
+EV-STN-00605,PulsePoint Tokyo #2,Japan,Tokyo,35.731883,139.728957,20,66,75.0,0.178,0.144,63.5,62.35
+EV-STN-00606,PowerFlow Park Tokyo #3,Japan,Tokyo,35.698012,139.716241,37,107,75.0,0.839,0.825,73.0,98.0
+EV-STN-00607,SparkPoint Tokyo #4,Japan,Tokyo,35.601689,139.664428,13,23,200.0,0.622,0.656,171.9,78.86
+EV-STN-00608,SuperCharge Hub Tokyo #5,Japan,Tokyo,35.658509,139.575415,8,30,175.0,0.775,0.709,173.9,87.0
+EV-STN-00609,EcoCurrent Tokyo #6,Japan,Tokyo,35.705833,139.763209,27,57,150.0,0.737,0.782,141.2,94.97
+EV-STN-00610,SparkPoint Tokyo #7,Japan,Tokyo,35.609435,139.672022,27,74,250.0,0.617,0.707,219.5,99.0
+EV-STN-00611,SuperCharge Hub Tokyo #8,Japan,Tokyo,35.678898,139.621055,18,56,50.0,0.312,0.4,38.7,68.13
+EV-STN-00612,PowerFlow Park Tokyo #9,Japan,Tokyo,35.682328,139.688425,40,145,75.0,0.257,0.281,70.5,84.46
+EV-STN-00613,PowerFlow Park Tokyo #10,Japan,Tokyo,35.677064,139.545156,31,72,150.0,0.613,0.611,132.8,93.46
+EV-STN-00614,VoltHub Tokyo #11,Japan,Tokyo,35.618147,139.665211,29,121,200.0,0.233,0.223,172.1,91.38
+EV-STN-00615,VoltHub Tokyo #12,Japan,Tokyo,35.73862,139.666394,21,87,150.0,0.265,0.251,139.3,81.69
+EV-STN-00616,PowerFlow Park Tokyo #13,Japan,Tokyo,35.678095,139.572243,36,120,300.0,0.483,0.554,229.2,99.0
+EV-STN-00617,CleanWatts Tokyo #14,Japan,Tokyo,35.543308,139.655759,41,148,50.0,0.687,0.644,37.9,98.21
+EV-STN-00618,EcoCurrent Tokyo #15,Japan,Tokyo,35.702835,139.680096,42,114,175.0,0.218,0.187,149.3,85.01
+EV-STN-00619,VoltHub Tokyo #16,Japan,Tokyo,35.656239,139.610905,43,113,150.0,0.209,0.247,116.8,86.61
+EV-STN-00620,VoltHub Tokyo #17,Japan,Tokyo,35.730641,139.531176,38,121,250.0,0.445,0.349,224.2,99.0
+EV-STN-00621,EcoCurrent Tokyo #18,Japan,Tokyo,35.64043,139.692845,38,78,120.0,0.492,0.53,100.1,82.82
+EV-STN-00622,SuperCharge Hub Osaka #1,Japan,Osaka,34.69222,135.458911,29,67,75.0,0.595,0.69,72.0,83.38
+EV-STN-00623,PulsePoint Osaka #2,Japan,Osaka,34.702483,135.548825,21,94,75.0,0.431,0.376,69.7,77.57
+EV-STN-00624,CleanWatts Osaka #3,Japan,Osaka,34.66212,135.601986,32,94,150.0,0.393,0.308,131.4,88.96
+EV-STN-00625,CleanWatts Osaka #4,Japan,Osaka,34.636848,135.533306,14,40,300.0,0.326,0.329,238.5,88.46
+EV-STN-00626,Orbital Charge Osaka #5,Japan,Osaka,34.70279,135.530067,44,193,300.0,0.67,0.663,285.7,99.0
+EV-STN-00627,Orbital Charge Osaka #6,Japan,Osaka,34.70009,135.437914,38,142,250.0,0.192,0.132,196.7,97.48
+EV-STN-00628,CleanWatts Osaka #7,Japan,Osaka,34.755343,135.537142,6,21,150.0,0.742,0.695,136.7,71.26
+EV-STN-00629,CleanWatts Osaka #8,Japan,Osaka,34.679519,135.461133,17,35,150.0,0.284,0.233,129.9,65.76
+EV-STN-00630,PowerFlow Park Osaka #9,Japan,Osaka,34.674052,135.536182,19,41,300.0,0.331,0.392,238.2,86.4
+EV-STN-00631,Orbital Charge Osaka #10,Japan,Osaka,34.770955,135.527835,3,5,150.0,0.778,0.741,145.0,55.95
+EV-STN-00632,EcoCurrent Osaka #11,Japan,Osaka,34.663804,135.44245,27,117,75.0,0.657,0.585,67.0,86.6
+EV-STN-00633,PulsePoint Osaka #12,Japan,Osaka,34.749134,135.47208,39,170,75.0,0.802,0.752,60.7,99.0
+EV-STN-00634,EcoCurrent Osaka #13,Japan,Osaka,34.756692,135.55147,17,73,120.0,0.303,0.224,119.1,73.9
+EV-STN-00635,AmpPark Osaka #14,Japan,Osaka,34.610091,135.568299,5,15,175.0,0.412,0.502,155.1,59.93
+EV-STN-00636,Apex Charger Seoul #1,South Korea,Seoul,37.572417,126.985542,32,119,350.0,0.725,0.629,265.5,99.0
+EV-STN-00637,TerraWatt Depot Seoul #2,South Korea,Seoul,37.504197,126.850232,44,107,175.0,0.537,0.499,170.8,99.0
+EV-STN-00638,HyperPower Station Seoul #3,South Korea,Seoul,37.509682,127.01716,27,116,120.0,0.793,0.753,98.9,98.01
+EV-STN-00639,Orbital Charge Seoul #4,South Korea,Seoul,37.652335,126.888698,42,111,50.0,0.719,0.748,40.9,96.14
+EV-STN-00640,AmpPark Seoul #5,South Korea,Seoul,37.608428,126.913963,23,85,100.0,0.764,0.828,92.5,95.43
+EV-STN-00641,PulsePoint Seoul #6,South Korea,Seoul,37.614282,127.004703,37,140,50.0,0.467,0.372,45.5,86.37
+EV-STN-00642,PowerFlow Park Seoul #7,South Korea,Seoul,37.616002,127.019881,42,110,120.0,0.553,0.475,105.5,94.47
+EV-STN-00643,SparkPoint Seoul #8,South Korea,Seoul,37.607674,126.884381,40,146,250.0,0.705,0.669,242.1,99.0
+EV-STN-00644,GreenGrid Express Seoul #9,South Korea,Seoul,37.58946,127.030458,14,28,200.0,0.407,0.386,197.2,73.21
+EV-STN-00645,Apex Charger Seoul #10,South Korea,Seoul,37.557249,126.972473,3,12,75.0,0.603,0.628,74.5,53.86
+EV-STN-00646,SuperCharge Hub Seoul #11,South Korea,Seoul,37.640153,127.061266,40,100,350.0,0.212,0.186,272.8,99.0
+EV-STN-00647,TerraWatt Depot Seoul #12,South Korea,Seoul,37.481482,126.960433,31,125,120.0,0.496,0.441,95.7,93.71
+EV-STN-00648,CleanWatts Seoul #13,South Korea,Seoul,37.499926,126.976617,29,119,150.0,0.57,0.669,139.8,98.06
+EV-STN-00649,HyperPower Station Seoul #14,South Korea,Seoul,37.521858,127.009736,11,20,250.0,0.833,0.78,244.2,88.34
+EV-STN-00650,ElectraPoint Busan #1,South Korea,Busan,35.235064,129.108241,22,97,200.0,0.428,0.37,185.4,94.9
+EV-STN-00651,TerraWatt Depot Busan #2,South Korea,Busan,35.163644,129.061936,37,72,175.0,0.383,0.33,174.9,95.75
+EV-STN-00652,GreenGrid Express Busan #3,South Korea,Busan,35.130961,129.047586,2,4,200.0,0.584,0.545,183.6,42.86
+EV-STN-00653,SuperCharge Hub Busan #4,South Korea,Busan,35.242345,129.059983,39,89,175.0,0.269,0.268,169.7,90.65
+EV-STN-00654,PulsePoint Busan #5,South Korea,Busan,35.211805,129.032242,22,42,150.0,0.24,0.314,140.5,74.65
+EV-STN-00655,Apex Charger Busan #6,South Korea,Busan,35.081893,129.131773,18,62,175.0,0.683,0.636,150.3,94.0
+EV-STN-00656,AmpPark Busan #7,South Korea,Busan,35.249922,129.078607,44,154,50.0,0.458,0.396,40.4,85.38
+EV-STN-00657,VoltHub Busan #8,South Korea,Busan,35.150238,129.082395,31,92,50.0,0.847,0.932,43.0,97.34
+EV-STN-00658,AmpPark Busan #9,South Korea,Busan,35.175097,128.957419,11,23,100.0,0.216,0.29,95.9,57.02
+EV-STN-00659,TerraWatt Depot Busan #10,South Korea,Busan,35.139751,129.072921,44,148,300.0,0.558,0.652,282.5,99.0
+EV-STN-00660,HyperPower Station Busan #11,South Korea,Busan,35.281557,129.086123,23,43,200.0,0.627,0.663,168.7,86.1
+EV-STN-00661,Apex Charger Busan #12,South Korea,Busan,35.270395,129.040445,11,20,250.0,0.472,0.514,215.9,80.56
+EV-STN-00662,VoltHub Busan #13,South Korea,Busan,35.160947,129.066833,41,179,350.0,0.377,0.423,273.8,99.0
+EV-STN-00663,Orbital Charge Busan #14,South Korea,Busan,35.248093,129.102063,22,87,350.0,0.671,0.68,295.9,99.0
+EV-STN-00664,SparkPoint Busan #15,South Korea,Busan,35.198183,129.093151,15,33,100.0,0.696,0.653,78.0,73.62
+EV-STN-00665,SparkPoint Singapore #1,Singapore,Singapore,1.269559,103.857168,21,89,75.0,0.572,0.544,71.9,82.15
+EV-STN-00666,Apex Charger Singapore #2,Singapore,Singapore,1.347494,103.789633,40,117,350.0,0.68,0.742,278.8,99.0
+EV-STN-00667,PowerFlow Park Singapore #3,Singapore,Singapore,1.339258,103.826242,23,101,100.0,0.624,0.654,98.3,89.57
+EV-STN-00668,ElectraPoint Singapore #4,Singapore,Singapore,1.339789,103.806231,32,83,150.0,0.839,0.876,144.1,99.0
+EV-STN-00669,PulsePoint Singapore #5,Singapore,Singapore,1.29384,103.848244,37,74,200.0,0.182,0.104,170.7,78.54
+EV-STN-00670,Orbital Charge Singapore #6,Singapore,Singapore,1.369679,103.818985,7,27,250.0,0.161,0.209,198.7,69.43
+EV-STN-00671,SuperCharge Hub Singapore #7,Singapore,Singapore,1.360488,103.807099,28,116,250.0,0.358,0.375,234.8,98.66
+EV-STN-00672,EcoCurrent Singapore #8,Singapore,Singapore,1.380191,103.918879,13,30,150.0,0.205,0.301,145.2,65.88
+EV-STN-00673,ElectraPoint Singapore #9,Singapore,Singapore,1.343403,103.823643,27,57,200.0,0.27,0.265,193.4,87.9
+EV-STN-00674,AmpPark Singapore #10,Singapore,Singapore,1.337631,103.789964,41,113,200.0,0.622,0.66,190.2,99.0
+EV-STN-00675,ElectraPoint Singapore #11,Singapore,Singapore,1.358007,103.825715,9,36,50.0,0.637,0.575,40.1,64.98
+EV-STN-00676,NexGen EV Plaza Singapore #12,Singapore,Singapore,1.293877,103.873859,36,83,250.0,0.361,0.354,213.9,92.01
+EV-STN-00677,ElectraPoint Singapore #13,Singapore,Singapore,1.366565,103.844659,30,132,350.0,0.48,0.552,283.7,99.0
+EV-STN-00678,NexGen EV Plaza Singapore #14,Singapore,Singapore,1.442434,103.82577,42,171,250.0,0.452,0.435,233.6,99.0
+EV-STN-00679,GreenGrid Express Singapore #15,Singapore,Singapore,1.330015,103.634858,4,12,350.0,0.49,0.508,344.3,86.05
+EV-STN-00680,TerraWatt Depot New Delhi #1,India,New Delhi,28.557419,77.21936,38,100,200.0,0.194,0.273,194.5,92.73
+EV-STN-00681,ElectraPoint New Delhi #2,India,New Delhi,28.49572,77.213409,24,72,120.0,0.455,0.387,104.1,78.73
+EV-STN-00682,GreenGrid Express New Delhi #3,India,New Delhi,28.636466,77.252608,40,164,150.0,0.651,0.645,139.6,99.0
+EV-STN-00683,NexGen EV Plaza New Delhi #4,India,New Delhi,28.705509,77.182069,45,160,100.0,0.402,0.396,90.5,91.76
+EV-STN-00684,PowerFlow Park New Delhi #5,India,New Delhi,28.695343,77.174065,12,41,250.0,0.221,0.204,206.5,76.96
+EV-STN-00685,HyperPower Station New Delhi #6,India,New Delhi,28.436002,77.133398,24,100,300.0,0.4,0.332,227.4,99.0
+EV-STN-00686,GreenGrid Express New Delhi #7,India,New Delhi,28.634566,77.21968,33,82,50.0,0.388,0.359,47.1,79.28
+EV-STN-00687,PulsePoint New Delhi #8,India,New Delhi,28.61076,77.241414,34,116,250.0,0.223,0.133,237.4,99.0
+EV-STN-00688,ElectraPoint New Delhi #9,India,New Delhi,28.594377,77.224435,8,32,75.0,0.179,0.1,72.6,50.2
+EV-STN-00689,Apex Charger New Delhi #10,India,New Delhi,28.561808,77.279244,30,115,100.0,0.499,0.573,91.2,90.73
+EV-STN-00690,Orbital Charge New Delhi #11,India,New Delhi,28.637367,77.253826,2,4,300.0,0.716,0.684,237.8,64.56
+EV-STN-00691,CleanWatts New Delhi #12,India,New Delhi,28.555578,77.277612,25,87,300.0,0.322,0.373,256.6,99.0
+EV-STN-00692,NexGen EV Plaza New Delhi #13,India,New Delhi,28.703009,77.314923,35,138,100.0,0.403,0.309,94.3,86.08
+EV-STN-00693,SparkPoint Mumbai #1,India,Mumbai,19.057123,72.875514,23,60,50.0,0.837,0.77,42.4,89.55
+EV-STN-00694,SuperCharge Hub Mumbai #2,India,Mumbai,19.102119,72.892638,42,186,150.0,0.709,0.784,128.2,99.0
+EV-STN-00695,Apex Charger Mumbai #3,India,Mumbai,19.049276,72.816745,21,78,150.0,0.37,0.339,146.3,84.12
+EV-STN-00696,NexGen EV Plaza Mumbai #4,India,Mumbai,19.057982,72.84388,36,125,175.0,0.583,0.571,170.1,99.0
+EV-STN-00697,SparkPoint Mumbai #5,India,Mumbai,19.024663,72.80415,21,42,100.0,0.526,0.504,88.0,73.36
+EV-STN-00698,PulsePoint Mumbai #6,India,Mumbai,19.06721,72.816849,42,93,350.0,0.17,0.229,285.1,99.0
+EV-STN-00699,Orbital Charge Mumbai #7,India,Mumbai,19.088174,72.793488,34,71,300.0,0.192,0.167,251.6,95.97
+EV-STN-00700,ElectraPoint Mumbai #8,India,Mumbai,19.097433,72.812281,2,6,350.0,0.838,0.899,312.0,79.26
+EV-STN-00701,Apex Charger Mumbai #9,India,Mumbai,19.144373,72.847754,40,97,350.0,0.359,0.392,321.3,99.0
+EV-STN-00702,HyperPower Station Mumbai #10,India,Mumbai,19.016962,72.928038,14,56,200.0,0.403,0.323,191.4,86.77
+EV-STN-00703,ElectraPoint Mumbai #11,India,Mumbai,19.120003,72.908179,10,30,300.0,0.462,0.436,255.2,81.35
+EV-STN-00704,Orbital Charge Mumbai #12,India,Mumbai,19.04455,72.872356,29,130,200.0,0.632,0.722,191.2,99.0
+EV-STN-00705,SuperCharge Hub Mumbai #13,India,Mumbai,19.018456,72.875486,31,66,75.0,0.643,0.716,69.3,85.3
+EV-STN-00706,SuperCharge Hub Mumbai #14,India,Mumbai,19.079558,72.925394,9,30,350.0,0.436,0.36,287.8,86.4
+EV-STN-00707,PulsePoint Mumbai #15,India,Mumbai,19.103507,72.919561,25,65,100.0,0.49,0.548,94.6,77.33
+EV-STN-00708,CleanWatts Mumbai #16,India,Mumbai,19.131471,72.905968,33,59,50.0,0.533,0.447,42.7,74.02
+EV-STN-00709,GreenGrid Express Mumbai #17,India,Mumbai,19.055896,72.931722,23,89,350.0,0.483,0.527,274.1,99.0
+EV-STN-00710,AmpPark Bengaluru #1,India,Bengaluru,13.025983,77.580116,22,44,200.0,0.587,0.612,161.6,86.3
+EV-STN-00711,NexGen EV Plaza Bengaluru #2,India,Bengaluru,12.963476,77.607921,44,184,100.0,0.665,0.694,92.7,99.0
+EV-STN-00712,TerraWatt Depot Bengaluru #3,India,Bengaluru,12.932623,77.567908,43,142,350.0,0.285,0.309,328.8,99.0
+EV-STN-00713,GreenGrid Express Bengaluru #4,India,Bengaluru,12.889055,77.582949,34,143,100.0,0.234,0.321,99.1,87.21
+EV-STN-00714,Orbital Charge Bengaluru #5,India,Bengaluru,13.005126,77.565067,30,60,350.0,0.523,0.487,266.4,97.26
+EV-STN-00715,Orbital Charge Bengaluru #6,India,Bengaluru,13.013296,77.575715,13,37,150.0,0.752,0.715,115.9,84.98
+EV-STN-00716,CleanWatts Bengaluru #7,India,Bengaluru,12.963688,77.618949,7,15,50.0,0.817,0.853,45.2,63.84
+EV-STN-00717,EcoCurrent Bengaluru #8,India,Bengaluru,13.004595,77.668299,21,59,175.0,0.374,0.357,142.5,86.11
+EV-STN-00718,VoltHub Bengaluru #9,India,Bengaluru,12.933133,77.619768,39,95,75.0,0.506,0.507,61.3,88.87
+EV-STN-00719,EcoCurrent Bengaluru #10,India,Bengaluru,12.921722,77.606101,32,60,50.0,0.593,0.676,40.9,83.65
+EV-STN-00720,HyperPower Station Bengaluru #11,India,Bengaluru,12.954544,77.600669,10,26,300.0,0.435,0.352,240.3,76.11
+EV-STN-00721,SuperCharge Hub Bengaluru #12,India,Bengaluru,12.86998,77.701126,17,55,250.0,0.447,0.529,190.1,91.77
+EV-STN-00722,GreenGrid Express Bengaluru #13,India,Bengaluru,12.853924,77.561091,2,3,150.0,0.795,0.75,144.0,52.36
+EV-STN-00723,NexGen EV Plaza Bengaluru #14,India,Bengaluru,13.067722,77.59413,15,50,300.0,0.507,0.416,267.2,94.92
+EV-STN-00724,ElectraPoint Bengaluru #15,India,Bengaluru,13.019234,77.634549,19,79,175.0,0.298,0.299,169.9,82.73
+EV-STN-00725,EcoCurrent Bengaluru #16,India,Bengaluru,12.879433,77.487089,30,76,120.0,0.614,0.578,103.8,88.47
+EV-STN-00726,TerraWatt Depot Bengaluru #17,India,Bengaluru,12.966365,77.671988,40,123,200.0,0.781,0.816,177.8,99.0
+EV-STN-00727,TerraWatt Depot Bengaluru #18,India,Bengaluru,12.947079,77.511321,36,72,300.0,0.764,0.794,227.3,99.0
+EV-STN-00728,ElectraPoint Hyderabad #1,India,Hyderabad,17.320088,78.428876,40,110,50.0,0.274,0.328,39.1,81.23
+EV-STN-00729,EcoCurrent Hyderabad #2,India,Hyderabad,17.434931,78.464544,16,60,175.0,0.681,0.717,139.6,92.71
+EV-STN-00730,SparkPoint Hyderabad #3,India,Hyderabad,17.320935,78.47901,33,145,350.0,0.176,0.175,280.8,99.0
+EV-STN-00731,HyperPower Station Hyderabad #4,India,Hyderabad,17.455972,78.479323,9,37,300.0,0.548,0.547,239.5,89.39
+EV-STN-00732,GreenGrid Express Hyderabad #5,India,Hyderabad,17.310509,78.469027,10,38,120.0,0.239,0.326,116.4,66.51
+EV-STN-00733,TerraWatt Depot Hyderabad #6,India,Hyderabad,17.391568,78.453203,45,83,350.0,0.829,0.865,284.6,99.0
+EV-STN-00734,NexGen EV Plaza Hyderabad #7,India,Hyderabad,17.364716,78.407331,5,20,200.0,0.376,0.445,163.7,60.86
+EV-STN-00735,PowerFlow Park Hyderabad #8,India,Hyderabad,17.326891,78.479669,35,134,150.0,0.769,0.714,146.9,99.0
+EV-STN-00736,NexGen EV Plaza Hyderabad #9,India,Hyderabad,17.376183,78.494083,38,151,200.0,0.843,0.788,197.9,99.0
+EV-STN-00737,Apex Charger Hyderabad #10,India,Hyderabad,17.385003,78.51811,21,41,200.0,0.588,0.494,190.4,84.84
+EV-STN-00738,EcoCurrent Hyderabad #11,India,Hyderabad,17.346473,78.50796,32,78,175.0,0.389,0.3,154.0,85.5
+EV-STN-00739,HyperPower Station Hyderabad #12,India,Hyderabad,17.466076,78.455235,41,122,75.0,0.217,0.206,57.9,78.91
+EV-STN-00740,EcoCurrent Hyderabad #13,India,Hyderabad,17.389846,78.548799,10,19,350.0,0.712,0.623,317.3,91.5
+EV-STN-00741,ElectraPoint Hyderabad #14,India,Hyderabad,17.398591,78.497299,5,12,200.0,0.417,0.336,161.7,53.65
+EV-STN-00742,VoltHub Hyderabad #15,India,Hyderabad,17.342005,78.430659,29,121,50.0,0.583,0.551,43.2,88.06
+EV-STN-00743,EcoCurrent Hyderabad #16,India,Hyderabad,17.364642,78.473569,2,6,120.0,0.197,0.255,117.1,35.73
+EV-STN-00744,EcoCurrent Hyderabad #17,India,Hyderabad,17.427423,78.412709,30,69,100.0,0.246,0.155,82.8,73.82
+EV-STN-00745,PulsePoint Toronto #1,Canada,Toronto,43.734318,-79.41218,21,70,250.0,0.529,0.458,206.8,94.07
+EV-STN-00746,VoltHub Toronto #2,Canada,Toronto,43.693225,-79.483763,11,21,50.0,0.505,0.572,42.8,58.3
+EV-STN-00747,HyperPower Station Toronto #3,Canada,Toronto,43.723948,-79.397737,14,54,250.0,0.389,0.423,225.0,88.37
+EV-STN-00748,EcoCurrent Toronto #4,Canada,Toronto,43.710558,-79.436863,12,24,250.0,0.763,0.845,201.2,86.85
+EV-STN-00749,VoltHub Toronto #5,Canada,Toronto,43.603747,-79.464528,31,108,175.0,0.317,0.364,166.6,91.31
+EV-STN-00750,Orbital Charge Toronto #6,Canada,Toronto,43.688749,-79.317723,6,16,250.0,0.538,0.466,199.7,69.77
+EV-STN-00751,GreenGrid Express Toronto #7,Canada,Toronto,43.693503,-79.417235,3,7,150.0,0.349,0.293,139.5,41.23
+EV-STN-00752,SuperCharge Hub Toronto #8,Canada,Toronto,43.706924,-79.368882,18,76,200.0,0.165,0.2,182.7,84.77
+EV-STN-00753,Apex Charger Toronto #9,Canada,Toronto,43.743105,-79.279124,21,63,100.0,0.409,0.383,98.5,86.36
+EV-STN-00754,Apex Charger Toronto #10,Canada,Toronto,43.628216,-79.482771,9,19,120.0,0.797,0.856,106.0,75.15
+EV-STN-00755,TerraWatt Depot Toronto #11,Canada,Toronto,43.605592,-79.316782,42,103,120.0,0.182,0.205,115.6,82.08
+EV-STN-00756,HyperPower Station Toronto #12,Canada,Toronto,43.680472,-79.266886,10,40,120.0,0.828,0.905,111.8,87.83
+EV-STN-00757,SparkPoint Toronto #13,Canada,Toronto,43.580654,-79.364508,6,13,300.0,0.422,0.498,253.1,70.87
+EV-STN-00758,TerraWatt Depot Toronto #14,Canada,Toronto,43.649481,-79.457921,33,101,350.0,0.557,0.585,319.4,99.0
+EV-STN-00759,HyperPower Station Toronto #15,Canada,Toronto,43.65961,-79.337498,17,48,350.0,0.364,0.442,276.3,95.99
+EV-STN-00760,SuperCharge Hub Vancouver #1,Canada,Vancouver,49.25066,-123.120047,35,96,350.0,0.559,0.552,291.9,99.0
+EV-STN-00761,AmpPark Vancouver #2,Canada,Vancouver,49.232485,-123.104784,33,87,120.0,0.418,0.354,98.0,88.14
+EV-STN-00762,CleanWatts Vancouver #3,Canada,Vancouver,49.332104,-123.070185,43,86,75.0,0.343,0.289,57.6,74.72
+EV-STN-00763,VoltHub Vancouver #4,Canada,Vancouver,49.23951,-123.140399,45,121,150.0,0.362,0.425,119.6,90.96
+EV-STN-00764,Orbital Charge Vancouver #5,Canada,Vancouver,49.266139,-123.118817,18,32,200.0,0.36,0.424,197.3,75.98
+EV-STN-00765,Orbital Charge Vancouver #6,Canada,Vancouver,49.21874,-123.174566,32,114,200.0,0.842,0.932,161.4,99.0
+EV-STN-00766,HyperPower Station Vancouver #7,Canada,Vancouver,49.248861,-123.254626,31,116,175.0,0.473,0.531,168.3,99.0
+EV-STN-00767,NexGen EV Plaza Vancouver #8,Canada,Vancouver,49.29246,-123.238354,15,44,100.0,0.747,0.653,89.4,84.56
+EV-STN-00768,VoltHub Vancouver #9,Canada,Vancouver,49.369181,-123.233111,24,65,200.0,0.443,0.48,188.1,91.65
+EV-STN-00769,TerraWatt Depot Vancouver #10,Canada,Vancouver,49.239513,-123.13664,3,9,175.0,0.173,0.101,156.1,43.91
+EV-STN-00770,GreenGrid Express Vancouver #11,Canada,Vancouver,49.177244,-122.976803,15,65,250.0,0.195,0.172,194.3,76.7
+EV-STN-00771,GreenGrid Express Vancouver #12,Canada,Vancouver,49.352044,-123.146618,21,43,50.0,0.223,0.234,47.8,60.64
+EV-STN-00772,ElectraPoint Sydney #1,Australia,Sydney,-33.875853,151.259776,15,36,50.0,0.612,0.526,42.1,66.4
+EV-STN-00773,VoltHub Sydney #2,Australia,Sydney,-33.822059,151.314538,28,79,200.0,0.843,0.769,173.9,99.0
+EV-STN-00774,Orbital Charge Sydney #3,Australia,Sydney,-33.816641,151.242177,21,62,350.0,0.647,0.642,312.8,99.0
+EV-STN-00775,CleanWatts Sydney #4,Australia,Sydney,-33.919176,151.172125,45,136,250.0,0.291,0.389,191.5,96.92
+EV-STN-00776,PulsePoint Sydney #5,Australia,Sydney,-33.815093,151.172128,33,100,150.0,0.553,0.6,136.7,99.0
+EV-STN-00777,Apex Charger Sydney #6,Australia,Sydney,-33.943515,151.234644,21,59,200.0,0.726,0.796,162.5,99.0
+EV-STN-00778,AmpPark Sydney #7,Australia,Sydney,-33.916592,151.143156,38,78,100.0,0.639,0.548,81.8,89.84
+EV-STN-00779,PowerFlow Park Sydney #8,Australia,Sydney,-33.940841,151.188333,6,22,250.0,0.656,0.599,213.2,80.34
+EV-STN-00780,EcoCurrent Sydney #9,Australia,Sydney,-33.894149,151.234476,22,63,50.0,0.265,0.206,43.3,66.47
+EV-STN-00781,ElectraPoint Sydney #10,Australia,Sydney,-33.917035,151.140088,31,87,200.0,0.672,0.743,151.9,99.0
+EV-STN-00782,SuperCharge Hub Sydney #11,Australia,Sydney,-33.790227,151.162687,33,100,250.0,0.208,0.239,196.3,95.53
+EV-STN-00783,Orbital Charge Sydney #12,Australia,Sydney,-33.874201,151.244428,3,10,200.0,0.274,0.199,158.4,47.11
+EV-STN-00784,CleanWatts Sydney #13,Australia,Sydney,-33.875411,151.241612,15,55,250.0,0.775,0.781,231.0,99.0
+EV-STN-00785,PowerFlow Park Melbourne #1,Australia,Melbourne,-37.786622,144.879188,44,185,50.0,0.423,0.385,45.0,91.76
+EV-STN-00786,HyperPower Station Melbourne #2,Australia,Melbourne,-37.798948,145.018394,17,39,50.0,0.161,0.1,41.7,53.76
+EV-STN-00787,HyperPower Station Melbourne #3,Australia,Melbourne,-37.821295,144.942414,8,31,100.0,0.731,0.665,76.1,67.36
+EV-STN-00788,EcoCurrent Melbourne #4,Australia,Melbourne,-37.820814,144.925147,15,64,120.0,0.427,0.413,96.4,77.1
+EV-STN-00789,EcoCurrent Melbourne #5,Australia,Melbourne,-37.817466,144.972953,43,114,75.0,0.422,0.414,68.6,85.02
+EV-STN-00790,VoltHub Melbourne #6,Australia,Melbourne,-37.744789,145.003631,21,81,300.0,0.5,0.598,284.3,99.0
+EV-STN-00791,Apex Charger Melbourne #7,Australia,Melbourne,-37.795502,144.931762,8,27,100.0,0.837,0.876,83.3,72.7
+EV-STN-00792,EcoCurrent Melbourne #8,Australia,Melbourne,-37.891596,145.055985,6,16,200.0,0.576,0.593,175.6,69.37
+EV-STN-00793,TerraWatt Depot Melbourne #9,Australia,Melbourne,-37.806268,145.04681,2,4,150.0,0.581,0.66,121.4,40.14
+EV-STN-00794,ElectraPoint Melbourne #10,Australia,Melbourne,-37.797376,145.020118,20,46,120.0,0.413,0.441,117.7,77.6
+EV-STN-00795,GreenGrid Express Melbourne #11,Australia,Melbourne,-37.759588,144.958173,23,49,50.0,0.372,0.429,44.0,72.05
+EV-STN-00796,CleanWatts Melbourne #12,Australia,Melbourne,-37.823751,144.963258,23,62,120.0,0.294,0.205,114.0,72.96
+EV-STN-00797,TerraWatt Depot Melbourne #13,Australia,Melbourne,-37.826634,144.878061,26,83,75.0,0.278,0.304,72.6,77.31
+EV-STN-00798,PowerFlow Park Melbourne #14,Australia,Melbourne,-37.799683,145.112284,10,20,120.0,0.565,0.631,97.1,65.81
+EV-STN-00799,ElectraPoint Melbourne #15,Australia,Melbourne,-37.86378,144.994843,12,44,120.0,0.321,0.256,99.1,61.59
+EV-STN-00800,HyperPower Station Melbourne #16,Australia,Melbourne,-37.874124,144.94799,7,30,250.0,0.402,0.378,215.1,82.1
+EV-STN-00801,PulsePoint Melbourne #17,Australia,Melbourne,-37.854797,144.920294,11,44,200.0,0.705,0.609,171.4,92.72
+EV-STN-00802,CleanWatts Melbourne #18,Australia,Melbourne,-37.759238,144.932979,13,32,200.0,0.475,0.466,178.1,77.93
+EV-STN-00803,ElectraPoint Brisbane #1,Australia,Brisbane,-27.509361,153.102441,14,31,300.0,0.283,0.186,279.8,81.14
+EV-STN-00804,NexGen EV Plaza Brisbane #2,Australia,Brisbane,-27.433631,153.164283,25,70,75.0,0.365,0.463,63.9,74.0
+EV-STN-00805,VoltHub Brisbane #3,Australia,Brisbane,-27.444048,153.023726,38,85,175.0,0.684,0.775,153.5,98.06
+EV-STN-00806,TerraWatt Depot Brisbane #4,Australia,Brisbane,-27.464345,153.077083,29,109,175.0,0.32,0.227,158.9,90.61
+EV-STN-00807,PowerFlow Park Brisbane #5,Australia,Brisbane,-27.396948,153.039833,11,27,150.0,0.469,0.505,121.8,66.41
+EV-STN-00808,SuperCharge Hub Brisbane #6,Australia,Brisbane,-27.504633,153.121564,43,160,75.0,0.419,0.46,66.0,91.29
+EV-STN-00809,HyperPower Station Brisbane #7,Australia,Brisbane,-27.448376,153.001256,29,71,200.0,0.362,0.456,179.3,90.46
+EV-STN-00810,Apex Charger Brisbane #8,Australia,Brisbane,-27.552927,153.021697,42,140,150.0,0.708,0.771,140.6,99.0
+EV-STN-00811,Apex Charger Brisbane #9,Australia,Brisbane,-27.470632,152.937778,2,8,75.0,0.721,0.621,70.8,44.52
+EV-STN-00812,CleanWatts Brisbane #10,Australia,Brisbane,-27.444168,153.021434,25,57,300.0,0.244,0.241,296.1,94.22
+EV-STN-00813,AmpPark Brisbane #11,Australia,Brisbane,-27.501341,153.009158,14,27,150.0,0.278,0.33,149.4,69.92
+EV-STN-00814,Apex Charger Brisbane #12,Australia,Brisbane,-27.508718,152.944563,12,24,75.0,0.21,0.135,62.7,47.35
+EV-STN-00815,GreenGrid Express Brisbane #13,Australia,Brisbane,-27.464298,153.089743,8,14,350.0,0.336,0.427,331.6,83.28
+EV-STN-00816,SparkPoint Brisbane #14,Australia,Brisbane,-27.460849,153.101619,19,82,200.0,0.481,0.448,166.8,92.05
+EV-STN-00817,PowerFlow Park Brisbane #15,Australia,Brisbane,-27.320505,152.886169,17,73,50.0,0.616,0.592,49.7,83.61
+EV-STN-00818,AmpPark Dubai #1,United Arab Emirates,Dubai,25.139974,55.309288,10,18,120.0,0.236,0.242,101.1,51.5
+EV-STN-00819,GreenGrid Express Dubai #2,United Arab Emirates,Dubai,25.16539,55.168054,34,99,175.0,0.282,0.379,132.0,87.24
+EV-STN-00820,SparkPoint Dubai #3,United Arab Emirates,Dubai,25.216578,55.263395,16,55,75.0,0.43,0.453,62.8,68.51
+EV-STN-00821,Apex Charger Dubai #4,United Arab Emirates,Dubai,25.257854,55.248211,44,181,150.0,0.784,0.831,135.3,99.0
+EV-STN-00822,Apex Charger Dubai #5,United Arab Emirates,Dubai,25.1067,55.172777,34,64,300.0,0.499,0.416,299.0,99.0
+EV-STN-00823,AmpPark Dubai #6,United Arab Emirates,Dubai,25.231571,55.323095,9,27,100.0,0.528,0.477,93.8,65.35
+EV-STN-00824,NexGen EV Plaza Dubai #7,United Arab Emirates,Dubai,25.186545,55.284247,22,93,150.0,0.686,0.63,137.5,96.92
+EV-STN-00825,Apex Charger Dubai #8,United Arab Emirates,Dubai,25.169398,55.198986,36,126,175.0,0.494,0.553,169.4,99.0
+EV-STN-00826,GreenGrid Express Dubai #9,United Arab Emirates,Dubai,25.169363,55.317347,26,92,200.0,0.7,0.793,190.4,99.0
+EV-STN-00827,HyperPower Station Dubai #10,United Arab Emirates,Dubai,25.202432,55.316553,9,18,75.0,0.668,0.755,67.0,65.95
+EV-STN-00828,NexGen EV Plaza Dubai #11,United Arab Emirates,Dubai,25.23592,55.267964,5,16,200.0,0.283,0.261,166.0,57.67
+EV-STN-00829,EcoCurrent Dubai #12,United Arab Emirates,Dubai,25.239084,55.14768,10,32,200.0,0.571,0.515,150.5,78.11
+EV-STN-00830,CleanWatts São Paulo #1,Brazil,São Paulo,-23.585366,-46.599851,31,68,50.0,0.348,0.397,45.0,70.7
+EV-STN-00831,CleanWatts São Paulo #2,Brazil,São Paulo,-23.626868,-46.634545,19,85,120.0,0.645,0.641,104.9,90.29
+EV-STN-00832,SparkPoint São Paulo #3,Brazil,São Paulo,-23.597114,-46.684355,15,61,50.0,0.804,0.749,49.0,87.03
+EV-STN-00833,SparkPoint São Paulo #4,Brazil,São Paulo,-23.525563,-46.576403,27,70,100.0,0.721,0.803,99.8,90.32
+EV-STN-00834,PowerFlow Park São Paulo #5,Brazil,São Paulo,-23.56396,-46.683072,27,77,120.0,0.519,0.476,111.0,86.6
+EV-STN-00835,PulsePoint São Paulo #6,Brazil,São Paulo,-23.571302,-46.615416,39,161,150.0,0.188,0.275,129.7,92.42
+EV-STN-00836,TerraWatt Depot São Paulo #7,Brazil,São Paulo,-23.5272,-46.748941,15,35,50.0,0.674,0.721,42.0,72.35
+EV-STN-00837,Orbital Charge São Paulo #8,Brazil,São Paulo,-23.617451,-46.670908,11,30,100.0,0.838,0.874,98.1,85.97
+EV-STN-00838,SuperCharge Hub São Paulo #9,Brazil,São Paulo,-23.473772,-46.607655,34,120,200.0,0.565,0.659,162.3,99.0
+EV-STN-00839,ElectraPoint São Paulo #10,Brazil,São Paulo,-23.547175,-46.570235,40,175,75.0,0.607,0.582,70.8,99.0
+EV-STN-00840,CleanWatts São Paulo #11,Brazil,São Paulo,-23.6049,-46.673187,2,4,300.0,0.208,0.206,241.9,40.51
+EV-STN-00841,GreenGrid Express São Paulo #12,Brazil,São Paulo,-23.608961,-46.664782,19,69,200.0,0.216,0.235,174.2,80.65
+EV-STN-00842,GreenGrid Express São Paulo #13,Brazil,São Paulo,-23.592546,-46.599141,36,82,300.0,0.719,0.623,286.3,99.0
+EV-STN-00843,SparkPoint São Paulo #14,Brazil,São Paulo,-23.528444,-46.691701,35,142,75.0,0.527,0.591,70.4,94.19
+EV-STN-00844,ElectraPoint São Paulo #15,Brazil,São Paulo,-23.4798,-46.602179,13,23,50.0,0.463,0.426,39.1,60.03
+EV-STN-00845,HyperPower Station São Paulo #16,Brazil,São Paulo,-23.562812,-46.652445,18,73,300.0,0.175,0.271,247.4,93.36
+EV-STN-00846,PowerFlow Park São Paulo #17,Brazil,São Paulo,-23.556953,-46.587178,35,148,100.0,0.355,0.362,89.4,89.45
+EV-STN-00847,TerraWatt Depot São Paulo #18,Brazil,São Paulo,-23.592844,-46.522642,24,82,50.0,0.507,0.545,40.5,80.15

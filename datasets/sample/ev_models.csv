@@ -1,0 +1,63 @@
+manufacturer,model,battery_capacity_kwh,max_charging_power_kw,vehicle_type
+Tesla,Model 3 Long Range,78.1,250.0,Sedan
+Tesla,Model Y Performance,78.1,250.0,SUV
+Tesla,Model S Plaid,100.0,250.0,Sedan
+Tesla,Model X Dual Motor,100.0,250.0,SUV
+Tesla,Cybertruck All-Wheel Drive,123.0,350.0,Pickup
+Porsche,Taycan Turbo S,93.4,270.0,Sports
+Porsche,Macan EV Turbo,100.0,270.0,SUV
+Audi,e-tron GT quattro,93.4,270.0,Sports
+Audi,Q4 e-tron 50,82.0,135.0,SUV
+Audi,Q8 e-tron 55,114.0,170.0,SUV
+Hyundai,IONIQ 5 Long Range,77.4,233.0,Crossover
+Hyundai,IONIQ 6 Long Range,77.4,233.0,Sedan
+Hyundai,Kona Electric,65.4,100.0,SUV
+Kia,EV6 GT-Line,77.4,233.0,Crossover
+Kia,EV9 GT-Line,99.8,210.0,SUV
+Kia,Niro EV,64.8,85.0,SUV
+BMW,i4 M50,83.9,205.0,Sedan
+BMW,iX xDrive50,111.5,195.0,SUV
+BMW,i7 xDrive60,105.7,195.0,Sedan
+Mercedes-Benz,EQS 450+,108.4,200.0,Sedan
+Mercedes-Benz,EQE 350 4MATIC,90.6,170.0,Sedan
+Mercedes-Benz,EQB 300,66.5,100.0,SUV
+Volkswagen,ID.4 Pro,82.0,135.0,SUV
+Volkswagen,ID.Buzz Pro,82.0,170.0,Van
+Volkswagen,ID.3 Pro Performance,62.0,120.0,Hatchback
+Ford,Mustang Mach-E GT,98.8,150.0,SUV
+Ford,F-150 Lightning Extended,131.0,155.0,Pickup
+Ford,E-Transit 350,68.0,115.0,Van
+Rivian,R1T Quad-Motor,135.0,220.0,Pickup
+Rivian,R1S Adventure,135.0,220.0,SUV
+Lucid,Air Grand Touring,112.0,300.0,Sedan
+Polestar,Polestar 2 Long Range,82.0,205.0,Sedan
+Polestar,Polestar 3 Long Range,111.0,250.0,SUV
+Polestar,Polestar 4 Long Range,100.0,200.0,SUV
+Volvo,EX30 Ultra Single Motor,69.0,153.0,SUV
+Volvo,EX90 Twin Motor,111.0,250.0,SUV
+Volvo,XC40 Recharge,82.0,200.0,SUV
+Nissan,Ariya e-4ORCE,91.0,130.0,SUV
+Nissan,Leaf SV PLUS,60.0,50.0,Hatchback
+Chevrolet,Blazer EV RS,102.0,190.0,SUV
+Chevrolet,Equinox EV LT,85.0,150.0,SUV
+Chevrolet,Silverado EV 4WT,200.0,350.0,Pickup
+BYD,Seal Excellence AWD,82.5,150.0,Sedan
+BYD,Atto 3 Design,60.5,88.0,SUV
+BYD,Han EV 4WD,85.4,120.0,Sedan
+BYD,Dolphin Comfort,60.4,88.0,Hatchback
+BYD,Tang Flagship,108.8,170.0,SUV
+Genesis,GV60 Performance,77.4,235.0,SUV
+Genesis,Electrified G80,87.2,187.0,Sedan
+Toyota,bZ4X Limited AWD,72.8,100.0,SUV
+Lexus,RZ 450e,71.4,150.0,SUV
+Subaru,Solterra Limited,72.8,100.0,SUV
+Mini,Cooper SE,54.2,95.0,Hatchback
+Renault,Megane E-Tech EV60,60.0,130.0,Hatchback
+Peugeot,e-208 GT,51.0,100.0,Hatchback
+MG,MG4 EV XPOWER,64.0,140.0,Hatchback
+MG,ZS EV Long Range,72.6,92.0,SUV
+NIO,ET7 100kWh,100.0,180.0,Sedan
+NIO,ES8 Ultra,100.0,180.0,SUV
+XPeng,G9 AWD Performance,98.0,300.0,SUV
+Zeekr,001 AWD,100.0,200.0,Sedan
+Lotus,Eletre R,112.0,355.0,SUV

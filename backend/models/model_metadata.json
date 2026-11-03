@@ -1,0 +1,283 @@
+{
+  "models": {
+    "demand_prediction": {
+      "model_name": "demand_prediction",
+      "version": "1.0.0",
+      "features": [
+        "station_count",
+        "port_count",
+        "fast_station_share",
+        "fast_port_share",
+        "median_power_kw"
+      ],
+      "target": "demand_score",
+      "r2_score": 0.9522,
+      "mae": 2.2944,
+      "mse": 9.4351,
+      "rmse": 3.0717,
+      "feature_importances": {
+        "station_count": 0.0337,
+        "port_count": 0.5909,
+        "fast_station_share": 0.0589,
+        "fast_port_share": 0.0789,
+        "median_power_kw": 0.2376
+      },
+      "actual_vs_predicted": [
+        {
+          "actual": 99.0,
+          "predicted": 99.28
+        },
+        {
+          "actual": 86.23,
+          "predicted": 86.16
+        },
+        {
+          "actual": 89.39,
+          "predicted": 86.88
+        },
+        {
+          "actual": 60.25,
+          "predicted": 64.19
+        },
+        {
+          "actual": 99.0,
+          "predicted": 98.8
+        },
+        {
+          "actual": 64.69,
+          "predicted": 66.3
+        },
+        {
+          "actual": 94.4,
+          "predicted": 96.05
+        },
+        {
+          "actual": 77.76,
+          "predicted": 79.92
+        },
+        {
+          "actual": 58.19,
+          "predicted": 60.46
+        },
+        {
+          "actual": 53.27,
+          "predicted": 53.95
+        },
+        {
+          "actual": 68.0,
+          "predicted": 62.92
+        },
+        {
+          "actual": 88.98,
+          "predicted": 89.3
+        },
+        {
+          "actual": 67.06,
+          "predicted": 70.75
+        },
+        {
+          "actual": 74.35,
+          "predicted": 74.77
+        },
+        {
+          "actual": 99.0,
+          "predicted": 98.86
+        },
+        {
+          "actual": 57.39,
+          "predicted": 56.18
+        },
+        {
+          "actual": 80.35,
+          "predicted": 79.64
+        },
+        {
+          "actual": 75.08,
+          "predicted": 74.38
+        },
+        {
+          "actual": 99.0,
+          "predicted": 99.49
+        },
+        {
+          "actual": 88.73,
+          "predicted": 89.37
+        },
+        {
+          "actual": 98.02,
+          "predicted": 95.9
+        },
+        {
+          "actual": 72.34,
+          "predicted": 71.71
+        },
+        {
+          "actual": 99.0,
+          "predicted": 94.51
+        },
+        {
+          "actual": 64.19,
+          "predicted": 63.97
+        },
+        {
+          "actual": 99.0,
+          "predicted": 100.35
+        },
+        {
+          "actual": 85.38,
+          "predicted": 86.63
+        },
+        {
+          "actual": 86.6,
+          "predicted": 81.84
+        },
+        {
+          "actual": 74.15,
+          "predicted": 71.26
+        },
+        {
+          "actual": 97.33,
+          "predicted": 96.93
+        },
+        {
+          "actual": 47.35,
+          "predicted": 50.25
+        }
+      ],
+      "n_samples_train": 677,
+      "n_samples_test": 170,
+      "trained_at": "2026-11-03T05:57:46.626670+00:00"
+    },
+    "country_growth_prediction": {
+      "model_name": "country_growth_prediction",
+      "version": "1.0.0",
+      "features": [
+        "station_count",
+        "port_count",
+        "fast_station_share",
+        "median_power_kw"
+      ],
+      "target": "future_growth_index",
+      "r2_score": 0.9644,
+      "mae": 2.2293,
+      "mse": 7.9041,
+      "rmse": 2.8114,
+      "feature_importances": {
+        "station_count": 0.0239,
+        "port_count": 0.8895,
+        "fast_station_share": 0.0161,
+        "median_power_kw": 0.0706
+      },
+      "actual_vs_predicted": [
+        {
+          "actual": 83.42,
+          "predicted": 77.77
+        },
+        {
+          "actual": 92.68,
+          "predicted": 92.42
+        },
+        {
+          "actual": 76.46,
+          "predicted": 74.35
+        },
+        {
+          "actual": 57.81,
+          "predicted": 61.02
+        },
+        {
+          "actual": 76.54,
+          "predicted": 75.2
+        },
+        {
+          "actual": 66.55,
+          "predicted": 63.59
+        },
+        {
+          "actual": 63.12,
+          "predicted": 62.51
+        },
+        {
+          "actual": 61.2,
+          "predicted": 61.8
+        },
+        {
+          "actual": 99.0,
+          "predicted": 97.06
+        },
+        {
+          "actual": 80.28,
+          "predicted": 76.41
+        },
+        {
+          "actual": 55.51,
+          "predicted": 58.41
+        },
+        {
+          "actual": 66.27,
+          "predicted": 66.77
+        },
+        {
+          "actual": 97.46,
+          "predicted": 95.71
+        },
+        {
+          "actual": 81.42,
+          "predicted": 85.12
+        },
+        {
+          "actual": 79.99,
+          "predicted": 79.31
+        },
+        {
+          "actual": 99.0,
+          "predicted": 99.16
+        },
+        {
+          "actual": 81.2,
+          "predicted": 74.8
+        },
+        {
+          "actual": 74.98,
+          "predicted": 73.19
+        },
+        {
+          "actual": 56.06,
+          "predicted": 58.9
+        },
+        {
+          "actual": 92.78,
+          "predicted": 95.43
+        },
+        {
+          "actual": 95.16,
+          "predicted": 89.37
+        },
+        {
+          "actual": 96.03,
+          "predicted": 95.92
+        },
+        {
+          "actual": 99.0,
+          "predicted": 97.02
+        },
+        {
+          "actual": 66.57,
+          "predicted": 63.73
+        },
+        {
+          "actual": 87.43,
+          "predicted": 87.17
+        }
+      ],
+      "n_samples_train": 128,
+      "n_samples_test": 32,
+      "trained_at": "2026-11-03T05:57:46.777163+00:00"
+    }
+  },
+  "last_updated": "2026-11-03T05:57:46.777544+00:00",
+  "training_environment": {
+    "scikit_learn_version": "1.5.2+",
+    "random_state": 42
+  }
+}

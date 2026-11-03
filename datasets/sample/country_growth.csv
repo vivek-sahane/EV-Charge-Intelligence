@@ -1,0 +1,161 @@
+country,station_count,port_count,fast_station_share,median_power_kw,future_growth_index
+China,220000,1850000,0.42,120.0,99.0
+China - Region 1,69303,534390,0.463,130.5,99.0
+China - Region 2,150767,1110713,0.419,101.3,99.0
+China - Region 3,36502,279221,0.451,124.5,99.0
+United States,68000,195000,0.28,150.0,99.0
+United States - Region 1,43224,105602,0.333,161.4,99.0
+United States - Region 2,24082,61921,0.354,145.1,99.0
+United States - Region 3,44777,132402,0.333,162.8,99.0
+Germany,38000,125000,0.24,110.0,99.0
+Germany - Region 1,14330,47876,0.296,117.8,99.0
+Germany - Region 2,25346,85312,0.279,92.1,99.0
+Germany - Region 3,7519,22751,0.194,102.5,91.33
+Netherlands,32000,145000,0.18,50.0,99.0
+Netherlands - Region 1,11907,49253,0.157,72.1,93.14
+Netherlands - Region 2,17242,80686,0.144,62.8,99.0
+Netherlands - Region 3,23798,112367,0.198,60.8,99.0
+France,34000,118000,0.22,90.0,99.0
+France - Region 1,9772,29155,0.204,82.0,87.44
+France - Region 2,9404,36974,0.283,84.2,95.16
+France - Region 3,23756,81432,0.197,81.1,99.0
+United Kingdom,31000,62000,0.26,120.0,99.0
+United Kingdom - Region 1,15523,34751,0.256,109.9,96.49
+United Kingdom - Region 2,23204,46541,0.213,102.1,99.0
+United Kingdom - Region 3,19382,37860,0.209,117.2,99.0
+Norway,12500,32000,0.45,175.0,99.0
+Norway - Region 1,9158,25982,0.392,187.4,99.0
+Norway - Region 2,6987,18087,0.427,183.8,99.0
+Norway - Region 3,5277,15351,0.513,166.9,99.0
+Sweden,9200,28000,0.31,130.0,98.19
+Sweden - Region 1,6417,21703,0.292,138.8,97.46
+Sweden - Region 2,4741,12927,0.357,134.3,92.68
+Sweden - Region 3,1383,3987,0.253,151.8,76.46
+South Korea,45000,280000,0.23,100.0,99.0
+South Korea - Region 1,15052,81240,0.293,122.6,99.0
+South Korea - Region 2,9062,56152,0.18,114.2,99.0
+South Korea - Region 3,19582,123667,0.207,119.3,99.0
+Japan,29000,41000,0.29,90.0,96.28
+Japan - Region 1,13733,20756,0.258,84.0,88.43
+Japan - Region 2,21665,32007,0.291,93.3,95.94
+Japan - Region 3,10232,14850,0.262,79.9,84.56
+Canada,11500,29000,0.27,125.0,99.0
+Canada - Region 1,3304,9347,0.33,108.2,85.38
+Canada - Region 2,3367,8921,0.24,111.0,83.67
+Canada - Region 3,4986,13648,0.323,113.6,88.13
+India,14500,26000,0.35,60.0,91.0
+India - Region 1,5860,10403,0.392,70.3,82.8
+India - Region 2,10737,16933,0.346,55.3,84.82
+India - Region 3,3829,6761,0.349,52.5,72.11
+Australia,4800,9800,0.38,150.0,91.8
+Australia - Region 1,1996,4517,0.397,132.3,85.14
+Australia - Region 2,3597,8086,0.456,171.7,95.44
+Australia - Region 3,2118,3954,0.376,132.6,78.15
+Italy,18500,42000,0.19,75.0,88.64
+Italy - Region 1,5718,14089,0.194,74.0,83.73
+Italy - Region 2,13401,34946,0.208,87.3,93.55
+Italy - Region 3,13527,31440,0.206,88.7,92.78
+Spain,16200,34000,0.25,90.0,96.03
+Spain - Region 1,7317,16983,0.212,113.2,89.02
+Spain - Region 2,3208,6099,0.273,100.4,76.61
+Spain - Region 3,11083,21490,0.273,97.9,91.29
+Belgium,14000,45000,0.21,80.0,92.93
+Belgium - Region 1,6491,23586,0.179,92.2,90.13
+Belgium - Region 2,4104,12782,0.244,73.5,79.55
+Belgium - Region 3,2709,8599,0.29,104.8,84.75
+Switzerland,8200,16500,0.32,140.0,95.72
+Switzerland - Region 1,2534,5763,0.383,159.6,87.8
+Switzerland - Region 2,3048,5503,0.377,151.7,81.42
+Switzerland - Region 3,4447,7627,0.374,133.5,83.15
+Austria,7900,18500,0.28,115.0,89.1
+Austria - Region 1,1821,3773,0.235,119.9,69.1
+Austria - Region 2,2475,5980,0.32,104.2,77.25
+Austria - Region 3,3500,9194,0.338,99.2,81.88
+Denmark,6800,19500,0.34,135.0,95.35
+Denmark - Region 1,1034,3207,0.369,126.8,76.77
+Denmark - Region 2,4044,11777,0.34,115.4,91.55
+Denmark - Region 3,4708,13685,0.397,141.2,96.83
+Finland,5200,14200,0.36,145.0,95.49
+Finland - Region 1,1741,5325,0.411,163.7,88.88
+Finland - Region 2,3584,8937,0.335,129.6,87.43
+Finland - Region 3,2047,5794,0.322,166.8,83.19
+Portugal,4800,10500,0.3,95.0,85.89
+Portugal - Region 1,3055,7447,0.243,108.1,75.36
+Portugal - Region 2,1676,4141,0.352,113.9,76.84
+Portugal - Region 3,2987,5767,0.362,113.6,78.91
+Poland,3900,7800,0.33,90.0,79.99
+Poland - Region 1,1662,3129,0.381,80.2,72.45
+Poland - Region 2,640,1162,0.316,108.9,61.65
+Poland - Region 3,2086,4046,0.407,94.1,74.45
+New Zealand,2400,4900,0.4,120.0,81.16
+New Zealand - Region 1,1757,3241,0.475,111.9,76.33
+New Zealand - Region 2,516,1033,0.442,114.1,61.41
+New Zealand - Region 3,914,1910,0.376,131.9,69.35
+Brazil,4100,6800,0.22,50.0,73.42
+Brazil - Region 1,1939,3428,0.264,60.2,64.22
+Brazil - Region 2,1510,2182,0.253,44.9,55.51
+Brazil - Region 3,2385,3719,0.203,48.4,65.09
+Mexico,2900,5200,0.26,60.0,67.5
+Mexico - Region 1,656,1149,0.332,70.5,56.06
+Mexico - Region 2,2005,3721,0.242,64.7,66.57
+Mexico - Region 3,1183,2172,0.292,60.9,59.89
+Singapore,3100,7200,0.25,100.0,76.54
+Singapore - Region 1,1345,3500,0.301,87.6,69.8
+Singapore - Region 2,622,1453,0.279,95.1,61.01
+Singapore - Region 3,1716,3657,0.218,81.1,63.75
+United Arab Emirates,1800,3900,0.45,150.0,83.42
+United Arab Emirates - Region 1,1187,2243,0.448,158.3,80.28
+United Arab Emirates - Region 2,479,1101,0.459,141.0,67.98
+United Arab Emirates - Region 3,1081,2532,0.405,149.1,76.97
+Saudi Arabia,950,2100,0.5,160.0,81.2
+Saudi Arabia - Region 1,437,837,0.475,178.2,74.69
+Saudi Arabia - Region 2,402,970,0.533,184.5,71.21
+Saudi Arabia - Region 3,650,1486,0.541,162.7,74.32
+South Africa,780,1450,0.35,80.0,60.71
+South Africa - Region 1,536,1071,0.356,71.7,53.18
+South Africa - Region 2,232,450,0.397,83.5,47.18
+South Africa - Region 3,153,266,0.328,74.4,38.08
+Ireland,2600,5400,0.31,100.0,75.15
+Ireland - Region 1,750,1650,0.349,82.9,61.18
+Ireland - Region 2,1025,2157,0.308,89.3,60.77
+Ireland - Region 3,1301,2860,0.37,114.5,74.52
+Czech Republic,2800,5900,0.28,85.0,74.02
+Czech Republic - Region 1,1010,2292,0.339,107.9,68.5
+Czech Republic - Region 2,1123,2544,0.296,92.1,66.36
+Czech Republic - Region 3,1152,2084,0.267,95.6,64.83
+Hungary,2200,4500,0.27,75.0,68.54
+Hungary - Region 1,946,1720,0.297,56.2,57.35
+Hungary - Region 2,850,1772,0.214,83.9,59.9
+Hungary - Region 3,396,781,0.24,69.7,49.59
+Greece,2100,4100,0.24,65.0,66.27
+Greece - Region 1,1262,2710,0.215,48.7,56.73
+Greece - Region 2,339,670,0.32,60.7,45.48
+Greece - Region 3,1136,2387,0.313,54.0,57.99
+Turkey,4500,9200,0.38,120.0,87.91
+Turkey - Region 1,1015,2182,0.399,109.8,69.87
+Turkey - Region 2,2563,5660,0.343,127.3,81.38
+Turkey - Region 3,2887,6725,0.335,101.2,78.6
+Chile,890,1650,0.41,90.0,63.12
+Chile - Region 1,645,1159,0.45,73.4,61.48
+Chile - Region 2,502,966,0.364,104.8,60.31
+Chile - Region 3,198,420,0.46,85.6,47.48
+Thailand,3200,7400,0.36,90.0,78.13
+Thailand - Region 1,1451,3196,0.419,107.0,74.98
+Thailand - Region 2,682,1796,0.389,107.3,66.55
+Thailand - Region 3,1888,4978,0.338,106.4,75.17
+Malaysia,1900,3800,0.33,80.0,67.89
+Malaysia - Region 1,781,1671,0.308,98.3,62.08
+Malaysia - Region 2,1232,2158,0.393,71.0,61.68
+Malaysia - Region 3,717,1231,0.389,68.2,57.81
+Indonesia,1200,2300,0.39,70.0,65.28
+Indonesia - Region 1,425,907,0.428,62.4,57.13
+Indonesia - Region 2,187,407,0.342,82.4,42.32
+Indonesia - Region 3,677,1354,0.399,85.7,61.2
+Vietnam,3800,8900,0.44,85.0,84.39
+Vietnam - Region 1,2147,4736,0.461,86.3,77.65
+Vietnam - Region 2,1780,4076,0.484,79.9,74.59
+Vietnam - Region 3,1143,2372,0.407,70.4,64.02
+Romania,1600,3300,0.29,75.0,63.51
+Romania - Region 1,417,788,0.298,87.6,51.64
+Romania - Region 2,1177,2446,0.27,59.5,60.82
+Romania - Region 3,412,726,0.305,67.3,50.01
